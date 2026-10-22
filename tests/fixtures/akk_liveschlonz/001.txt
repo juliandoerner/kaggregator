@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<HTML lang="de">
+<HEAD>
+   <TITLE>AKK - Chronologie - Sommersemester 2026</TITLE>
+   <LINK rel="stylesheet" type="text/css" href="/css/akk.css"><LINK rel="stylesheet" type="text/css" href="/css/chrono.css">
+   <META name="author" content="markus">
+   <META http-equiv="Content-Type" content="text/html; charset=iso-8859-15">
+</HEAD>
+
+<BODY>
+   <HEADER>
+      <A HREF="/">
+         <IMG SRC="/bilder/logos/akk-logo.mittel.png" ALT="AKK" width="200" height="80">
+      </A>
+      <BR>
+      <DIV id="name">Arbeitskreis Kultur und Kommunikation</DIV>
+      <DIV id="adr">Engesserstra&szlig;e&nbsp;17 - 76131&nbsp;Karlsruhe - Universit&auml;t Karlsruhe</DIV>
+      <HR>
+   </HEADER>
+
+
+
+<H2>unser Programm<BR>f&uuml;r das Sommersemester 2026</H2>
+
+<TABLE class="chrono">
+ <TR><TH class="mon" COLSPAN="4"><A class="akt" ID="Apr">April</A> / <A HREF="#Mai">Mai</A> / <A HREF="#Jun">Juni</A> / <A HREF="#Jul">Juli</A> / <A HREF="#Aug">August</A> / <A HREF="#Sep">September</A></TH></TR>
+  <TR><TH class="datum">Datum</TH><TH class="zeit">Zeit</TH><TH class="was">Geschehen</TH><TH class="ort">Ort</TH></TR>
+	<TR class="cafe"><TD><TIME datetime="2026-04-06T18:00"><SPAN class="wtag">Mo.</SPAN> <SPAN class="tag">&nbsp;6.</SPAN> <SPAN class="monat">Apr.</SPAN></TIME></TD><TD><SPAN class="h">18</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/regelmaessiges.php#reparaturcafe">Cafe: Reparatur Cafe</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="sonderveranstaltung"><TD><TIME datetime="2026-04-10T20:00"><SPAN class="wtag">Fr.</SPAN> <SPAN class="tag">10.</SPAN> <SPAN class="monat">Apr.</SPAN></TIME></TD><TD><SPAN class="h">20</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/sonder/sonder.php?Feier%20TU9-Treffen">Sonderveranstaltung: Feier TU9-Treffen</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="sonderveranstaltung"><TD><TIME datetime="2026-04-17T22:00"><SPAN class="wtag">Fr.</SPAN> <SPAN class="tag">17.</SPAN> <SPAN class="monat">Apr.</SPAN></TIME></TD><TD><SPAN class="h">22</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/sonder/sonder.php?O-Rave">Sonderveranstaltung: O-Rave</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="tanzen"><TD><TIME datetime="2026-04-18T20:00"><SPAN class="wtag">Sa.</SPAN> <SPAN class="tag">18.</SPAN> <SPAN class="monat">Apr.</SPAN></TIME></TD><TD><SPAN class="h">20</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/sonder/sonder.php?Tanzen:_Waltz%20Nocturna">Tanzen: Waltz Nocturna</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="veranstaltungshinweis"><TD><TIME datetime="2026-04-20"><SPAN class="wtag">Mo.</SPAN> <SPAN class="tag">20.</SPAN> <SPAN class="monat">Apr.</SPAN></TIME></TD><TD></TD>
+		<TD><A HREF="http://campus.studium.kit.edu/events/catalog.php">Veranstaltungshinweis: Rektor: Vorlesungsbeginn</A></TD><TD><A HREF="http://www.kit.edu/campusplan/">Campus</A></TD></TR>
+	<TR class="tanzen"><TD><TIME datetime="2026-04-22T20:15"><SPAN class="wtag">Mi.</SPAN> <SPAN class="tag">22.</SPAN> <SPAN class="monat">Apr.</SPAN></TIME></TD><TD><SPAN class="h">20</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">15</SPAN> Uhr</TD>
+		<TD><A HREF="/tanzen/#tanzen">Tanzen: Beginn Fortgeschrittenen-Tanzkurs</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="liveschlonz"><TD><TIME datetime="2026-04-23T18:00"><SPAN class="wtag">Do.</SPAN> <SPAN class="tag">23.</SPAN> <SPAN class="monat">Apr.</SPAN></TIME></TD><TD><SPAN class="h">18</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/schlonze/schlonz.php?KAmpusKApelle%20Jam-Session">Liveschlonz: KAmpusKApelle Jam-Session</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="sonderveranstaltung"><TD><TIME datetime="2026-04-24T19:00"><SPAN class="wtag">Fr.</SPAN> <SPAN class="tag">24.</SPAN> <SPAN class="monat">Apr.</SPAN></TIME></TD><TD><SPAN class="h">19</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/sonder/sonder.php?Spring%20Jam">Sonderveranstaltung: Spring Jam</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="sonderveranstaltung"><TD><TIME datetime="2026-04-25T15:00"><SPAN class="wtag">Sa.</SPAN> <SPAN class="tag">25.</SPAN> <SPAN class="monat">Apr.</SPAN></TIME></TD><TD><SPAN class="h">15</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/sonder/sonder.php?Groovelink">Sonderveranstaltung: Groovelink</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="sonderveranstaltung"><TD><TIME datetime="2026-04-25T20:00"><SPAN class="wtag">Sa.</SPAN> <SPAN class="tag">25.</SPAN> <SPAN class="monat">Apr.</SPAN></TIME></TD><TD><SPAN class="h">20</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/sonder/sonder.php?AKK%20Metal%20Mania">Sonderveranstaltung: AKK Metal Mania</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="liveschlonz"><TD><TIME datetime="2026-04-26T14:00"><SPAN class="wtag">So.</SPAN> <SPAN class="tag">26.</SPAN> <SPAN class="monat">Apr.</SPAN></TIME></TD><TD><SPAN class="h">14</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/schlonze/schlonz.php?C-Pop%20Sunday">Liveschlonz: C-Pop Sunday</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="sonderveranstaltung"><TD><TIME datetime="2026-04-27T17:00"><SPAN class="wtag">Mo.</SPAN> <SPAN class="tag">27.</SPAN> <SPAN class="monat">Apr.</SPAN></TIME></TD><TD><SPAN class="h">17</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/sonder/sonder.php?Fairlieben-Beziehungen%20auf%20Augenh%F6he">Sonderveranstaltung: Fairlieben-Beziehungen auf Augenh&ouml;he</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="cafe"><TD><TIME datetime="2026-04-29T11:00"><SPAN class="wtag">Mi.</SPAN> <SPAN class="tag">29.</SPAN> <SPAN class="monat">Apr.</SPAN></TIME></TD><TD><SPAN class="h">11</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/sonder/sonder.php?Cafe:_Samenbomben%20basteln">Cafe: Samenbomben basteln</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="schlonz"><TD><TIME datetime="2026-04-30T20:00"><SPAN class="wtag">Do.</SPAN> <SPAN class="tag">30.</SPAN> <SPAN class="monat">Apr.</SPAN></TIME></TD><TD><SPAN class="h">20</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/schlonze/schlonz.php?Tanz%20in%20den%20Mai">Tanz in den Mai Schlonz</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="tanzen"><TD><TIME datetime="2026-04-30T20:00"><SPAN class="wtag">Do.</SPAN> <SPAN class="tag">30.</SPAN> <SPAN class="monat">Apr.</SPAN></TIME></TD><TD><SPAN class="h">20</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/sonder/sonder.php?Tanzen:_Tanz%20in%20den%20Mai">Tanzen: Tanz in den Mai</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+</TABLE>
+
+<TABLE class="chrono">
+ <TR><TH class="mon" COLSPAN="4"><A HREF="#Apr">April</A> / <A class="akt" ID="Mai">Mai</A> / <A HREF="#Jun">Juni</A> / <A HREF="#Jul">Juli</A> / <A HREF="#Aug">August</A> / <A HREF="#Sep">September</A></TH></TR>
+  <TR><TH class="datum">Datum</TH><TH class="zeit">Zeit</TH><TH class="was">Geschehen</TH><TH class="ort">Ort</TH></TR>
+	<TR class="workshop"><TD><TIME datetime="2026-05-03T12:00"><SPAN class="wtag">So.</SPAN> <SPAN class="tag">&nbsp;3.</SPAN> <SPAN class="monat">Mai.</SPAN></TIME></TD><TD><SPAN class="h">12</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/workshops/">Workshop: Digital Independence Day</A></TD><TD></TD></TR>
+	<TR class="cafe"><TD><TIME datetime="2026-05-04T18:00"><SPAN class="wtag">Mo.</SPAN> <SPAN class="tag">&nbsp;4.</SPAN> <SPAN class="monat">Mai.</SPAN></TIME></TD><TD><SPAN class="h">18</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/regelmaessiges.php#reparaturcafe">Cafe: Reparatur Cafe</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="schlonz"><TD><TIME datetime="2026-05-05T19:00"><SPAN class="wtag">Di.</SPAN> <SPAN class="tag">&nbsp;5.</SPAN> <SPAN class="monat">Mai.</SPAN></TIME></TD><TD><SPAN class="h">19</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/schlonze/schlonz.php?FSMI%20Internationals%20Karaoke">FSMI Internationals Karaoke Schlonz</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="schlonz"><TD><TIME datetime="2026-05-07T20:00"><SPAN class="wtag">Do.</SPAN> <SPAN class="tag">&nbsp;7.</SPAN> <SPAN class="monat">Mai.</SPAN></TIME></TD><TD><SPAN class="h">20</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/schlonze/schlonz.php?Back2Rave">Back2Rave Schlonz</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="sonderveranstaltung"><TD><TIME datetime="2026-05-08T21:00"><SPAN class="wtag">Fr.</SPAN> <SPAN class="tag">&nbsp;8.</SPAN> <SPAN class="monat">Mai.</SPAN></TIME></TD><TD><SPAN class="h">21</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/sonder/sonder.php?Beyond%20Culture">Sonderveranstaltung: Beyond Culture</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="schlonz"><TD><TIME datetime="2026-05-09T16:00"><SPAN class="wtag">Sa.</SPAN> <SPAN class="tag">&nbsp;9.</SPAN> <SPAN class="monat">Mai.</SPAN></TIME></TD><TD><SPAN class="h">16</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/schlonze/schlonz.php?Inseler%F6ffnung">Inseler&ouml;ffnung Schlonz</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="sonderveranstaltung"><TD><TIME datetime="2026-05-13T18:00"><SPAN class="wtag">Mi.</SPAN> <SPAN class="tag">13.</SPAN> <SPAN class="monat">Mai.</SPAN></TIME></TD><TD><SPAN class="h">18</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/sonder/sonder.php?Der%20lange%20Arm%20der%20Mullahs">Sonderveranstaltung: Der lange Arm der Mullahs</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="veranstaltungshinweis"><TD><TIME datetime="2026-05-19T12:00"><SPAN class="wtag">Di.</SPAN> <SPAN class="tag">19.</SPAN> <SPAN class="monat">Mai.</SPAN></TIME></TD><TD><SPAN class="h">12</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="http://www.careerservice.kit.edu/de/studierende/berufsorientierung/kit-karrieremesse/">Veranstaltungshinweis: KIT: Karrieremesse</A></TD><TD><A HREF="http://www.kit.edu/campusplan/?lat=49.0117&amp;long=8.4154&amp;label=Forum">Forum</A></TD></TR>
+	<TR class="veranstaltungshinweis"><TD><TIME datetime="2026-05-20T12:00"><SPAN class="wtag">Mi.</SPAN> <SPAN class="tag">20.</SPAN> <SPAN class="monat">Mai.</SPAN></TIME></TD><TD><SPAN class="h">12</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="http://www.careerservice.kit.edu/de/studierende/berufsorientierung/kit-karrieremesse/">Veranstaltungshinweis: KIT: Karrieremesse</A></TD><TD><A HREF="http://www.kit.edu/campusplan/?lat=49.0117&amp;long=8.4154&amp;label=Forum">Forum</A></TD></TR>
+	<TR class="schlonz"><TD><TIME datetime="2026-05-21T20:00"><SPAN class="wtag">Do.</SPAN> <SPAN class="tag">21.</SPAN> <SPAN class="monat">Mai.</SPAN></TIME></TD><TD><SPAN class="h">20</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/schlonze/schlonz.php?Schlechte%20Witze%20Wettbewerb">Schlechte Witze Wettbewerb Schlonz</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="cafe"><TD><TIME datetime="2026-05-22"><SPAN class="wtag">Fr.</SPAN> <SPAN class="tag">22.</SPAN> <SPAN class="monat">Mai.</SPAN></TIME></TD><TD></TD>
+		<TD>Cafe: geschlossen wegen Stromabschaltung bis 26.Mai</TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="cafe"><TD><TIME datetime="2026-05-23"><SPAN class="wtag">Sa.</SPAN> <SPAN class="tag">23.</SPAN> <SPAN class="monat">Mai.</SPAN></TIME></TD><TD></TD>
+		<TD>Cafe: geschlossen wegen Stromabschaltung</TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="cafe"><TD><TIME datetime="2026-05-24"><SPAN class="wtag">So.</SPAN> <SPAN class="tag">24.</SPAN> <SPAN class="monat">Mai.</SPAN></TIME></TD><TD></TD>
+		<TD>Cafe: geschlossen wegen Stromabschaltung</TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="cafe"><TD><TIME datetime="2026-05-25"><SPAN class="wtag">Mo.</SPAN> <SPAN class="tag">25.</SPAN> <SPAN class="monat">Mai.</SPAN></TIME></TD><TD></TD>
+		<TD>Cafe: geschlossen wegen Stromabschaltung</TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="cafe"><TD><TIME datetime="2026-05-26"><SPAN class="wtag">Di.</SPAN> <SPAN class="tag">26.</SPAN> <SPAN class="monat">Mai.</SPAN></TIME></TD><TD></TD>
+		<TD>Cafe: geschlossen wegen Stromabschaltung</TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="veranstaltungshinweis"><TD><TIME datetime="2026-05-29T18:00"><SPAN class="wtag">Fr.</SPAN> <SPAN class="tag">29.</SPAN> <SPAN class="monat">Mai.</SPAN></TIME></TD><TD><SPAN class="h">18</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="http://www.hadiko.de/">Veranstaltungshinweis: HaDiKo: Heimfest</A></TD><TD><A HREF="http://www.hadiko.de/">HaDiKo</A></TD></TR>
+	<TR class="sonderveranstaltung"><TD><TIME datetime="2026-05-29T19:00"><SPAN class="wtag">Fr.</SPAN> <SPAN class="tag">29.</SPAN> <SPAN class="monat">Mai.</SPAN></TIME></TD><TD><SPAN class="h">19</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/sonder/sonder.php?Sommer%2C%20Sonne%2C%20Strudel">Sonderveranstaltung: Sommer, Sonne, Strudel</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="veranstaltungshinweis"><TD><TIME datetime="2026-05-30T17:00"><SPAN class="wtag">Sa.</SPAN> <SPAN class="tag">30.</SPAN> <SPAN class="monat">Mai.</SPAN></TIME></TD><TD><SPAN class="h">17</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="http://www.hadiko.de/">Veranstaltungshinweis: HaDiKo: Heimfest</A></TD><TD><A HREF="http://www.hadiko.de/">HaDiKo</A></TD></TR>
+	<TR class="sonderveranstaltung"><TD><TIME datetime="2026-05-30T20:00"><SPAN class="wtag">Sa.</SPAN> <SPAN class="tag">30.</SPAN> <SPAN class="monat">Mai.</SPAN></TIME></TD><TD><SPAN class="h">20</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/sonder/sonder.php?AKK%20Metal%20Mania">Sonderveranstaltung: AKK Metal Mania</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+</TABLE>
+
+<TABLE class="chrono">
+ <TR><TH class="mon" COLSPAN="4"><A HREF="#Apr">April</A> / <A HREF="#Mai">Mai</A> / <A class="akt" ID="Jun">Juni</A> / <A HREF="#Jul">Juli</A> / <A HREF="#Aug">August</A> / <A HREF="#Sep">September</A></TH></TR>
+  <TR><TH class="datum">Datum</TH><TH class="zeit">Zeit</TH><TH class="was">Geschehen</TH><TH class="ort">Ort</TH></TR>
+	<TR class="cafe"><TD><TIME datetime="2026-06-01T18:00"><SPAN class="wtag">Mo.</SPAN> <SPAN class="tag">&nbsp;1.</SPAN> <SPAN class="monat">Jun.</SPAN></TIME></TD><TD><SPAN class="h">18</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/regelmaessiges.php#reparaturcafe">Cafe: Reparatur Cafe</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="veranstaltungshinweis"><TD><TIME datetime="2026-06-04"><SPAN class="wtag">Do.</SPAN> <SPAN class="tag">&nbsp;4.</SPAN> <SPAN class="monat">Jun.</SPAN></TIME></TD><TD></TD>
+		<TD><A HREF="http://entropia.de/wiki/GPN">Veranstaltungshinweis: Entropia: Gulaschprogrammiernacht</A></TD><TD><A HREF="https://zkm.de/de/ausstellungen-veranstaltungen/anfahrt">HfG, ZKM</A></TD></TR>
+	<TR class="workshop"><TD><TIME datetime="2026-06-04T10:20"><SPAN class="wtag">Do.</SPAN> <SPAN class="tag">&nbsp;4.</SPAN> <SPAN class="monat">Jun.</SPAN></TIME></TD><TD><SPAN class="h">10</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">20</SPAN> Uhr</TD>
+		<TD><A HREF="/workshops/">Workshop: Die Herrlichkeit der Residenz</A></TD><TD></TD></TR>
+	<TR class="veranstaltungshinweis"><TD><TIME datetime="2026-06-05"><SPAN class="wtag">Fr.</SPAN> <SPAN class="tag">&nbsp;5.</SPAN> <SPAN class="monat">Jun.</SPAN></TIME></TD><TD></TD>
+		<TD><A HREF="http://entropia.de/wiki/GPN">Veranstaltungshinweis: Entropia: Gulaschprogrammiernacht</A></TD><TD><A HREF="https://zkm.de/de/ausstellungen-veranstaltungen/anfahrt">HfG, ZKM</A></TD></TR>
+	<TR class="sonderveranstaltung"><TD><TIME datetime="2026-06-05T22:00"><SPAN class="wtag">Fr.</SPAN> <SPAN class="tag">&nbsp;5.</SPAN> <SPAN class="monat">Jun.</SPAN></TIME></TD><TD><SPAN class="h">22</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/sonder/sonder.php?Bouncing%20Bears">Sonderveranstaltung: Bouncing Bears</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="veranstaltungshinweis"><TD><TIME datetime="2026-06-06"><SPAN class="wtag">Sa.</SPAN> <SPAN class="tag">&nbsp;6.</SPAN> <SPAN class="monat">Jun.</SPAN></TIME></TD><TD></TD>
+		<TD><A HREF="http://entropia.de/wiki/GPN">Veranstaltungshinweis: Entropia: Gulaschprogrammiernacht</A></TD><TD><A HREF="https://zkm.de/de/ausstellungen-veranstaltungen/anfahrt">HfG, ZKM</A></TD></TR>
+	<TR class="sonderveranstaltung"><TD><TIME datetime="2026-06-06T16:00"><SPAN class="wtag">Sa.</SPAN> <SPAN class="tag">&nbsp;6.</SPAN> <SPAN class="monat">Jun.</SPAN></TIME></TD><TD><SPAN class="h">16</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/sonder/sonder.php?CSD%20Afterparty">Sonderveranstaltung: CSD Afterparty</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="veranstaltungshinweis"><TD><TIME datetime="2026-06-06T20:00"><SPAN class="wtag">Sa.</SPAN> <SPAN class="tag">&nbsp;6.</SPAN> <SPAN class="monat">Jun.</SPAN></TIME></TD><TD><SPAN class="h">20</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="http://www.z10.info/">Veranstaltungshinweis: Z10: All Hell Breaks Loose</A></TD><TD><A HREF="http://www.z10.info/?topic=kontakt">Z10</A></TD></TR>
+	<TR class="veranstaltungshinweis"><TD><TIME datetime="2026-06-07"><SPAN class="wtag">So.</SPAN> <SPAN class="tag">&nbsp;7.</SPAN> <SPAN class="monat">Jun.</SPAN></TIME></TD><TD></TD>
+		<TD><A HREF="http://entropia.de/wiki/GPN">Veranstaltungshinweis: Entropia: Gulaschprogrammiernacht</A></TD><TD><A HREF="https://zkm.de/de/ausstellungen-veranstaltungen/anfahrt">HfG, ZKM</A></TD></TR>
+	<TR class="veranstaltungshinweis"><TD><TIME datetime="2026-06-10T17:00"><SPAN class="wtag">Mi.</SPAN> <SPAN class="tag">10.</SPAN> <SPAN class="monat">Jun.</SPAN></TIME></TD><TD><SPAN class="h">17</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="http://eulenfest-karlsruhe.de/">Veranstaltungshinweis: FS Mathe/Info: Sommerfest</A></TD><TD><A HREF="http://www.kit.edu/campusplan/?ids=50.34">Informatikgeb&auml;ude</A></TD></TR>
+	<TR class="veranstaltungshinweis"><TD><TIME datetime="2026-06-11T18:00"><SPAN class="wtag">Do.</SPAN> <SPAN class="tag">11.</SPAN> <SPAN class="monat">Jun.</SPAN></TIME></TD><TD><SPAN class="h">18</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="http://www.fs-fmc.kit.edu/">Veranstaltungshinweis: FS Mach/Ciw: Sommerfest</A></TD><TD><A HREF="http://www.kit.edu/campusplan/?lat=49.01470&amp;long=8.41598&amp;label=Engler-Bunte-Ring">Engler-Bunte-Ring</A></TD></TR>
+	<TR class="schlonz"><TD><TIME datetime="2026-06-11T19:00"><SPAN class="wtag">Do.</SPAN> <SPAN class="tag">11.</SPAN> <SPAN class="monat">Jun.</SPAN></TIME></TD><TD><SPAN class="h">19</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/schlonze/schlonz.php?Disco%20Disco">Disco Disco Schlonz</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="tanzen"><TD><TIME datetime="2026-06-12T19:30"><SPAN class="wtag">Fr.</SPAN> <SPAN class="tag">12.</SPAN> <SPAN class="monat">Jun.</SPAN></TIME></TD><TD><SPAN class="h">19</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">30</SPAN> Uhr</TD>
+		<TD><A HREF="/sonder/sonder.php?Tanzen:_Mittelalter-%20und%20LARP-Tanz">Tanzen: Mittelalter- und LARP-Tanz</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="veranstaltungshinweis"><TD><TIME datetime="2026-06-13T10:00"><SPAN class="wtag">Sa.</SPAN> <SPAN class="tag">13.</SPAN> <SPAN class="monat">Jun.</SPAN></TIME></TD><TD><SPAN class="h">10</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="http://www.campustag.kit.edu/">Veranstaltungshinweis: KIT-CSE: Campustag</A></TD><TD><A HREF="http://www.kit.edu/campusplan/">Campus</A></TD></TR>
+	<TR class="sonderveranstaltung"><TD><TIME datetime="2026-06-13T15:30"><SPAN class="wtag">Sa.</SPAN> <SPAN class="tag">13.</SPAN> <SPAN class="monat">Jun.</SPAN></TIME></TD><TD><SPAN class="h">15</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">30</SPAN> Uhr</TD>
+		<TD><A HREF="/sonder/sonder.php?Sommerrave">Sonderveranstaltung: Sommerrave</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="schlonz"><TD><TIME datetime="2026-06-16T19:00"><SPAN class="wtag">Di.</SPAN> <SPAN class="tag">16.</SPAN> <SPAN class="monat">Jun.</SPAN></TIME></TD><TD><SPAN class="h">19</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/schlonze/schlonz.php?Widersetzen">Widersetzen Schlonz</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="veranstaltungshinweis"><TD><TIME datetime="2026-06-18T18:00"><SPAN class="wtag">Do.</SPAN> <SPAN class="tag">18.</SPAN> <SPAN class="monat">Jun.</SPAN></TIME></TD><TD><SPAN class="h">18</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="http://www.z10.info/">Veranstaltungshinweis: Z10: Sommerfest</A></TD><TD><A HREF="http://www.z10.info/?topic=kontakt">Z10</A></TD></TR>
+	<TR class="schlonz"><TD><TIME datetime="2026-06-18T20:00"><SPAN class="wtag">Do.</SPAN> <SPAN class="tag">18.</SPAN> <SPAN class="monat">Jun.</SPAN></TIME></TD><TD><SPAN class="h">20</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/schlonze/schlonz.php?Furry">Furry Schlonz</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="veranstaltungshinweis"><TD><TIME datetime="2026-06-19"><SPAN class="wtag">Fr.</SPAN> <SPAN class="tag">19.</SPAN> <SPAN class="monat">Jun.</SPAN></TIME></TD><TD></TD>
+		<TD><A HREF="http://www.z10.info/">Veranstaltungshinweis: Z10: Sommerfest</A></TD><TD><A HREF="http://www.z10.info/?topic=kontakt">Z10</A></TD></TR>
+	<TR class="veranstaltungshinweis"><TD><TIME datetime="2026-06-20"><SPAN class="wtag">Sa.</SPAN> <SPAN class="tag">20.</SPAN> <SPAN class="monat">Jun.</SPAN></TIME></TD><TD></TD>
+		<TD><A HREF="http://www.z10.info/">Veranstaltungshinweis: Z10: Sommerfest</A></TD><TD><A HREF="http://www.z10.info/?topic=kontakt">Z10</A></TD></TR>
+	<TR class="liveschlonz"><TD><TIME datetime="2026-06-23T20:00"><SPAN class="wtag">Di.</SPAN> <SPAN class="tag">23.</SPAN> <SPAN class="monat">Jun.</SPAN></TIME></TD><TD><SPAN class="h">20</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/schlonze/schlonz.php?Ancient%20Thunder%20und%20Poethum">Liveschlonz: Ancient Thunder und Poethum</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="veranstaltungshinweis"><TD><TIME datetime="2026-06-25T17:00"><SPAN class="wtag">Do.</SPAN> <SPAN class="tag">25.</SPAN> <SPAN class="monat">Jun.</SPAN></TIME></TD><TD><SPAN class="h">17</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="http://www.ifss.kit.edu/hochschulsport/HSP-Archiv-2026_6295.php">Veranstaltungshinweis: HSP: Sommerfest</A></TD><TD><A HREF="http://www.kit.edu/campusplan/?lat=49.01715&amp;long=8.41544&amp;label=Sportpark">Sportinstitut Sparda-Sportpark</A></TD></TR>
+	<TR class="liveschlonz"><TD><TIME datetime="2026-06-25T20:00"><SPAN class="wtag">Do.</SPAN> <SPAN class="tag">25.</SPAN> <SPAN class="monat">Jun.</SPAN></TIME></TD><TD><SPAN class="h">20</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/schlonze/schlonz.php?Orchester">Liveschlonz: Orchester</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="veranstaltungshinweis"><TD><TIME datetime="2026-06-26T19:00"><SPAN class="wtag">Fr.</SPAN> <SPAN class="tag">26.</SPAN> <SPAN class="monat">Jun.</SPAN></TIME></TD><TD><SPAN class="h">19</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="https://parkplatzfest.de/">Veranstaltungshinweis: Wohnheime Willy-Andreas-Allee: Parkplatzfest</A></TD><TD><A HREF="http://ka.stadtwiki.net/Willy-Andreas-Allee">Willy-Andreas-Allee</A></TD></TR>
+	<TR class="sonderveranstaltung"><TD><TIME datetime="2026-06-26T21:30"><SPAN class="wtag">Fr.</SPAN> <SPAN class="tag">26.</SPAN> <SPAN class="monat">Jun.</SPAN></TIME></TD><TD><SPAN class="h">21</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">30</SPAN> Uhr</TD>
+		<TD><A HREF="/sonder/sonder.php?Type%20Techno">Sonderveranstaltung: Type Techno</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="sonderveranstaltung"><TD><TIME datetime="2026-06-27T16:00"><SPAN class="wtag">Sa.</SPAN> <SPAN class="tag">27.</SPAN> <SPAN class="monat">Jun.</SPAN></TIME></TD><TD><SPAN class="h">16</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/sonder/sonder.php?Geburtstagsrave">Sonderveranstaltung: Geburtstagsrave</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="liveschlonz"><TD><TIME datetime="2026-06-30T18:00"><SPAN class="wtag">Di.</SPAN> <SPAN class="tag">30.</SPAN> <SPAN class="monat">Jun.</SPAN></TIME></TD><TD><SPAN class="h">18</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/schlonze/schlonz.php?Tanzmusik">Liveschlonz: Tanzmusik</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+</TABLE>
+
+<TABLE class="chrono">
+ <TR><TH class="mon" COLSPAN="4"><A HREF="#Apr">April</A> / <A HREF="#Mai">Mai</A> / <A HREF="#Jun">Juni</A> / <A class="akt" ID="Jul">Juli</A> / <A HREF="#Aug">August</A> / <A HREF="#Sep">September</A></TH></TR>
+  <TR><TH class="datum">Datum</TH><TH class="zeit">Zeit</TH><TH class="was">Geschehen</TH><TH class="ort">Ort</TH></TR>
+	<TR class="veranstaltungshinweis"><TD><TIME datetime="2026-07-01T16:00"><SPAN class="wtag">Mi.</SPAN> <SPAN class="tag">&nbsp;1.</SPAN> <SPAN class="monat">Jul.</SPAN></TIME></TD><TD><SPAN class="h">16</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="http://www.fs-bau.kit.edu">Veranstaltungshinweis: FS BGU: Sommerfest</A></TD><TD><A HREF="http://www.kit.edu/campusplan/?lat=49.00992&amp;long=8.41547&amp;label=Otto-Ammann-Platz">Otto-Ammann Platz</A></TD></TR>
+	<TR class="schlonz"><TD><TIME datetime="2026-07-02T20:00"><SPAN class="wtag">Do.</SPAN> <SPAN class="tag">&nbsp;2.</SPAN> <SPAN class="monat">Jul.</SPAN></TIME></TD><TD><SPAN class="h">20</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/schlonze/schlonz.php?LBS">LBS Schlonz</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="schlonz"><TD><TIME datetime="2026-07-03T16:00"><SPAN class="wtag">Fr.</SPAN> <SPAN class="tag">&nbsp;3.</SPAN> <SPAN class="monat">Jul.</SPAN></TIME></TD><TD><SPAN class="h">16</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/schlonze/schlonz.php?Nachhaltigkeits">Nachhaltigkeits Schlonz</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="sonderveranstaltung"><TD><TIME datetime="2026-07-04T14:00"><SPAN class="wtag">Sa.</SPAN> <SPAN class="tag">&nbsp;4.</SPAN> <SPAN class="monat">Jul.</SPAN></TIME></TD><TD><SPAN class="h">14</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/sonder/sonder.php?DayRave">Sonderveranstaltung: DayRave</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="cafe"><TD><TIME datetime="2026-07-10"><SPAN class="wtag">Fr.</SPAN> <SPAN class="tag">10.</SPAN> <SPAN class="monat">Jul.</SPAN></TIME></TD><TD></TD>
+		<TD><A HREF="http://www.unifest-karlsruhe.de/">Cafe: geschlossen wegen Unifest</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="veranstaltungshinweis"><TD><TIME datetime="2026-07-10T17:00"><SPAN class="wtag">Fr.</SPAN> <SPAN class="tag">10.</SPAN> <SPAN class="monat">Jul.</SPAN></TIME></TD><TD><SPAN class="h">17</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="http://www.unifest-karlsruhe.de/">Veranstaltungshinweis: UStA: Unifest</A></TD><TD><A HREF="http://www.kit.edu/campusplan/?lat=49.0117&amp;long=8.4154&amp;label=Forum">Forum</A></TD></TR>
+	<TR class="veranstaltungshinweis"><TD><TIME datetime="2026-07-11T16:00"><SPAN class="wtag">Sa.</SPAN> <SPAN class="tag">11.</SPAN> <SPAN class="monat">Jul.</SPAN></TIME></TD><TD><SPAN class="h">16</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="http://www.unifest-karlsruhe.de/">Veranstaltungshinweis: UStA: Unifest</A></TD><TD><A HREF="http://www.kit.edu/campusplan/?lat=49.0117&amp;long=8.4154&amp;label=Forum">Forum</A></TD></TR>
+	<TR class="schlonz"><TD><TIME datetime="2026-07-16T17:00"><SPAN class="wtag">Do.</SPAN> <SPAN class="tag">16.</SPAN> <SPAN class="monat">Jul.</SPAN></TIME></TD><TD><SPAN class="h">17</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/schlonze/schlonz.php?Wahldebatte">Wahldebatte Schlonz</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="veranstaltungshinweis"><TD><TIME datetime="2026-07-16T18:00"><SPAN class="wtag">Do.</SPAN> <SPAN class="tag">16.</SPAN> <SPAN class="monat">Jul.</SPAN></TIME></TD><TD><SPAN class="h">18</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="http://fachschaft.org/die-fachschaft/wiwiwiwiwiso/">Veranstaltungshinweis: Fachschaft WiWi: Sommerfest</A></TD><TD><A HREF="http://www.kit.edu/campusplan/?lat=49.0117&amp;long=8.4154&amp;label=Forum">Forum</A></TD></TR>
+	<TR class="veranstaltungshinweis"><TD><TIME datetime="2026-07-17T18:00"><SPAN class="wtag">Fr.</SPAN> <SPAN class="tag">17.</SPAN> <SPAN class="monat">Jul.</SPAN></TIME></TD><TD><SPAN class="h">18</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="https://www.km.kit.edu/Diner_26.php">Veranstaltungshinweis: KIT: D&icirc;ner au KIT</A></TD><TD><A HREF="http://www.kit.edu/campusplan/">KIT</A></TD></TR>
+	<TR class="sonderveranstaltung"><TD><TIME datetime="2026-07-17T23:00"><SPAN class="wtag">Fr.</SPAN> <SPAN class="tag">17.</SPAN> <SPAN class="monat">Jul.</SPAN></TIME></TD><TD><SPAN class="h">23</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/sonder/sonder.php?Hardwerk">Sonderveranstaltung: Hardwerk</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="veranstaltungshinweis"><TD><TIME datetime="2026-07-18T17:00"><SPAN class="wtag">Sa.</SPAN> <SPAN class="tag">18.</SPAN> <SPAN class="monat">Jul.</SPAN></TIME></TD><TD><SPAN class="h">17</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="http://www.kunstakademie-karlsruhe.de/aktuelles/info/sommerausstellung-2026">Veranstaltungshinweis: Kunstakademie: Sommerfest</A></TD><TD><A HREF="http://ka.stadtwiki.net/Gut_Scheibenhardt">Schlo&szlig; Scheibenardt</A></TD></TR>
+	<TR class="sonderveranstaltung"><TD><TIME datetime="2026-07-18T20:00"><SPAN class="wtag">Sa.</SPAN> <SPAN class="tag">18.</SPAN> <SPAN class="monat">Jul.</SPAN></TIME></TD><TD><SPAN class="h">20</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/sonder/sonder.php?All%20Hell%20Breaks%20Loose">Sonderveranstaltung: All Hell Breaks Loose</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="tanzen"><TD><TIME datetime="2026-07-18T20:00"><SPAN class="wtag">Sa.</SPAN> <SPAN class="tag">18.</SPAN> <SPAN class="monat">Jul.</SPAN></TIME></TD><TD><SPAN class="h">20</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/sonder/sonder.php?Tanzen:_Waltz%20Nocturna">Tanzen: Waltz Nocturna</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="sonderveranstaltung"><TD><TIME datetime="2026-07-19T11:00"><SPAN class="wtag">So.</SPAN> <SPAN class="tag">19.</SPAN> <SPAN class="monat">Jul.</SPAN></TIME></TD><TD><SPAN class="h">11</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/sonder/sonder.php?SBO%20Klassikfr%FChst%FCck">Sonderveranstaltung: SBO Klassikfr&uuml;hst&uuml;ck</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="veranstaltungshinweis"><TD><TIME datetime="2026-07-20"><SPAN class="wtag">Mo.</SPAN> <SPAN class="tag">20.</SPAN> <SPAN class="monat">Jul.</SPAN></TIME></TD><TD></TD>
+		<TD><A HREF="http://www.asta-kit.de/Wahl/">Veranstaltungshinweis: StuPa: Wahl</A></TD><TD><A HREF="http://www.kit.edu/campusplan/">Campus</A></TD></TR>
+	<TR class="veranstaltungshinweis"><TD><TIME datetime="2026-07-21"><SPAN class="wtag">Di.</SPAN> <SPAN class="tag">21.</SPAN> <SPAN class="monat">Jul.</SPAN></TIME></TD><TD></TD>
+		<TD><A HREF="http://www.asta-kit.de/Wahl/">Veranstaltungshinweis: StuPa: Wahl</A></TD><TD><A HREF="http://www.kit.edu/campusplan/">Campus</A></TD></TR>
+	<TR class="schlonz"><TD><TIME datetime="2026-07-21T19:00"><SPAN class="wtag">Di.</SPAN> <SPAN class="tag">21.</SPAN> <SPAN class="monat">Jul.</SPAN></TIME></TD><TD><SPAN class="h">19</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/schlonze/schlonz.php?FSMI%20Internationals%20Karaoke">FSMI Internationals Karaoke Schlonz</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="veranstaltungshinweis"><TD><TIME datetime="2026-07-22"><SPAN class="wtag">Mi.</SPAN> <SPAN class="tag">22.</SPAN> <SPAN class="monat">Jul.</SPAN></TIME></TD><TD></TD>
+		<TD><A HREF="http://www.asta-kit.de/Wahl/">Veranstaltungshinweis: StuPa: Wahl</A></TD><TD><A HREF="http://www.kit.edu/campusplan/">Campus</A></TD></TR>
+	<TR class="veranstaltungshinweis"><TD><TIME datetime="2026-07-23"><SPAN class="wtag">Do.</SPAN> <SPAN class="tag">23.</SPAN> <SPAN class="monat">Jul.</SPAN></TIME></TD><TD></TD>
+		<TD><A HREF="http://www.asta-kit.de/Wahl/">Veranstaltungshinweis: StuPa: Wahl</A></TD><TD><A HREF="http://www.kit.edu/campusplan/">Campus</A></TD></TR>
+	<TR class="veranstaltungshinweis"><TD><TIME datetime="2026-07-23T17:15"><SPAN class="wtag">Do.</SPAN> <SPAN class="tag">23.</SPAN> <SPAN class="monat">Jul.</SPAN></TIME></TD><TD><SPAN class="h">17</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">15</SPAN> Uhr</TD>
+		<TD><A HREF="https://www.dasfest.de/">Veranstaltungshinweis: Fest GmbH: Das Fest</A></TD><TD><A HREF="https://ka.stadtwiki.net/G%C3%BCnther-Klotz-Anlage">G&uuml;nther-Klotz-Anlage</A></TD></TR>
+	<TR class="liveschlonz"><TD><TIME datetime="2026-07-23T20:00"><SPAN class="wtag">Do.</SPAN> <SPAN class="tag">23.</SPAN> <SPAN class="monat">Jul.</SPAN></TIME></TD><TD><SPAN class="h">20</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/schlonze/schlonz.php?Sand%20im%20Kopf">Liveschlonz: Sand im Kopf</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="veranstaltungshinweis"><TD><TIME datetime="2026-07-24"><SPAN class="wtag">Fr.</SPAN> <SPAN class="tag">24.</SPAN> <SPAN class="monat">Jul.</SPAN></TIME></TD><TD></TD>
+		<TD><A HREF="http://www.asta-kit.de/Wahl/">Veranstaltungshinweis: StuPa: Wahl</A></TD><TD><A HREF="http://www.kit.edu/campusplan/">Campus</A></TD></TR>
+	<TR class="veranstaltungshinweis"><TD><TIME datetime="2026-07-24T17:00"><SPAN class="wtag">Fr.</SPAN> <SPAN class="tag">24.</SPAN> <SPAN class="monat">Jul.</SPAN></TIME></TD><TD><SPAN class="h">17</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="https://www.dasfest.de/">Veranstaltungshinweis: Fest GmbH: Das Fest</A></TD><TD><A HREF="https://ka.stadtwiki.net/G%C3%BCnther-Klotz-Anlage">G&uuml;nther-Klotz-Anlage</A></TD></TR>
+	<TR class="liveschlonz"><TD><TIME datetime="2026-07-24T20:00"><SPAN class="wtag">Fr.</SPAN> <SPAN class="tag">24.</SPAN> <SPAN class="monat">Jul.</SPAN></TIME></TD><TD><SPAN class="h">20</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/schlonze/schlonz.php?Alicia%20and%20the%20Wonderband">Liveschlonz: Alicia and the Wonderband</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="veranstaltungshinweis"><TD><TIME datetime="2026-07-25T13:30"><SPAN class="wtag">Sa.</SPAN> <SPAN class="tag">25.</SPAN> <SPAN class="monat">Jul.</SPAN></TIME></TD><TD><SPAN class="h">13</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">30</SPAN> Uhr</TD>
+		<TD><A HREF="https://www.dasfest.de/">Veranstaltungshinweis: Fest GmbH: Das Fest</A></TD><TD><A HREF="https://ka.stadtwiki.net/G%C3%BCnther-Klotz-Anlage">G&uuml;nther-Klotz-Anlage</A></TD></TR>
+	<TR class="sonderveranstaltung"><TD><TIME datetime="2026-07-25T16:00"><SPAN class="wtag">Sa.</SPAN> <SPAN class="tag">25.</SPAN> <SPAN class="monat">Jul.</SPAN></TIME></TD><TD><SPAN class="h">16</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/sonder/sonder.php?Anime%20Rock%20Night">Sonderveranstaltung: Anime Rock Night</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="veranstaltungshinweis"><TD><TIME datetime="2026-07-26T10:00"><SPAN class="wtag">So.</SPAN> <SPAN class="tag">26.</SPAN> <SPAN class="monat">Jul.</SPAN></TIME></TD><TD><SPAN class="h">10</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="https://www.dasfest.de/">Veranstaltungshinweis: Fest GmbH: Das Fest</A></TD><TD><A HREF="https://ka.stadtwiki.net/G%C3%BCnther-Klotz-Anlage">G&uuml;nther-Klotz-Anlage</A></TD></TR>
+	<TR class="liveschlonz"><TD><TIME datetime="2026-07-28T19:00"><SPAN class="wtag">Di.</SPAN> <SPAN class="tag">28.</SPAN> <SPAN class="monat">Jul.</SPAN></TIME></TD><TD><SPAN class="h">19</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/schlonze/schlonz.php?Immerhin%20live%20und%20schwer">Liveschlonz: Immerhin live und schwer</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="sonderveranstaltung"><TD><TIME datetime="2026-07-31T20:00"><SPAN class="wtag">Fr.</SPAN> <SPAN class="tag">31.</SPAN> <SPAN class="monat">Jul.</SPAN></TIME></TD><TD><SPAN class="h">20</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/sonder/sonder.php?AKK%20Metal%20Mania">Sonderveranstaltung: AKK Metal Mania</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+</TABLE>
+
+<TABLE class="chrono">
+ <TR><TH class="mon" COLSPAN="4"><A HREF="#Apr">April</A> / <A HREF="#Mai">Mai</A> / <A HREF="#Jun">Juni</A> / <A HREF="#Jul">Juli</A> / <A class="akt" ID="Aug">August</A> / <A HREF="#Sep">September</A></TH></TR>
+  <TR><TH class="datum">Datum</TH><TH class="zeit">Zeit</TH><TH class="was">Geschehen</TH><TH class="ort">Ort</TH></TR>
+	<TR class="cafe"><TD><TIME datetime="2026-08-03T18:00"><SPAN class="wtag">Mo.</SPAN> <SPAN class="tag">&nbsp;3.</SPAN> <SPAN class="monat">Aug.</SPAN></TIME></TD><TD><SPAN class="h">18</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/regelmaessiges.php#reparaturcafe">Cafe: Reparatur Cafe</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="sonderveranstaltung"><TD><TIME datetime="2026-08-14T18:00"><SPAN class="wtag">Fr.</SPAN> <SPAN class="tag">14.</SPAN> <SPAN class="monat">Aug.</SPAN></TIME></TD><TD><SPAN class="h">18</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/sonder/sonder.php?Summer%20Jam">Sonderveranstaltung: Summer Jam</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="sonderveranstaltung"><TD><TIME datetime="2026-08-18T19:00"><SPAN class="wtag">Di.</SPAN> <SPAN class="tag">18.</SPAN> <SPAN class="monat">Aug.</SPAN></TIME></TD><TD><SPAN class="h">19</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/sonder/sonder.php?VJ%20Stammtisch">Sonderveranstaltung: VJ Stammtisch</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+</TABLE>
+
+<TABLE class="chrono">
+ <TR><TH class="mon" COLSPAN="4"><A HREF="#Apr">April</A> / <A HREF="#Mai">Mai</A> / <A HREF="#Jun">Juni</A> / <A HREF="#Jul">Juli</A> / <A HREF="#Aug">August</A> / <A class="akt" ID="Sep">September</A></TH></TR>
+  <TR><TH class="datum">Datum</TH><TH class="zeit">Zeit</TH><TH class="was">Geschehen</TH><TH class="ort">Ort</TH></TR>
+	<TR class="cafe"><TD><TIME datetime="2026-09-07T18:00"><SPAN class="wtag">Mo.</SPAN> <SPAN class="tag">&nbsp;7.</SPAN> <SPAN class="monat">Sep.</SPAN></TIME></TD><TD><SPAN class="h">18</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/regelmaessiges.php#reparaturcafe">Cafe: Reparatur Cafe</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+	<TR class="veranstaltungshinweis"><TD><TIME datetime="2026-09-10T11:00"><SPAN class="wtag">Do.</SPAN> <SPAN class="tag">10.</SPAN> <SPAN class="monat">Sep.</SPAN></TIME></TD><TD><SPAN class="h">11</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="http://im.baden-wuerttemberg.de/de/sicherheit/krisenmanagement/warnung-der-bevoelkerung">Veranstaltungshinweis: BBK: Warntag</A></TD><TD><A HREF="https://de.wikipedia.org/wiki/Land_%28Deutschland%29">Bundesweit</A></TD></TR>
+	<TR class="veranstaltungshinweis"><TD><TIME datetime="2026-09-12T18:00"><SPAN class="wtag">Sa.</SPAN> <SPAN class="tag">12.</SPAN> <SPAN class="monat">Sep.</SPAN></TIME></TD><TD><SPAN class="h">18</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="https://www.karlsruher-theaternacht.de/">Veranstaltungshinweis: Karlsruher Theater: Karlsruher Theaternacht</A></TD><TD><A HREF="https://geoportal.karlsruhe.de/stadtplan/">Karlsruhe</A></TD></TR>
+	<TR class="veranstaltungshinweis"><TD><TIME datetime="2026-09-13"><SPAN class="wtag">So.</SPAN> <SPAN class="tag">13.</SPAN> <SPAN class="monat">Sep.</SPAN></TIME></TD><TD></TD>
+		<TD><A HREF="https://www.tag-des-offenen-denkmals.de/">Veranstaltungshinweis: Deutsche Stiftung Denkmalschutz: Tag des offenen Denkmals</A></TD><TD><A HREF="https://de.wikipedia.org/wiki/Land_%28Deutschland%29">Bundesweit</A></TD></TR>
+	<TR class="sonderveranstaltung"><TD><TIME datetime="2026-09-19T19:00"><SPAN class="wtag">Sa.</SPAN> <SPAN class="tag">19.</SPAN> <SPAN class="monat">Sep.</SPAN></TIME></TD><TD><SPAN class="h">19</SPAN><SPAN class="min-alt">:</SPAN><SPAN class="min">00</SPAN> Uhr</TD>
+		<TD><A HREF="/sonder/sonder.php?All%20Hell%20Breaks%20Loose">Sonderveranstaltung: All Hell Breaks Loose</A></TD><TD><A HREF="/adresse.php">Altes Stadion</A></TD></TR>
+</TABLE>
+
+<DIV class="termine">
+	<A HREF="/sonst/AKK-Termine.ics?chrono">Termine im iCal-Format</A>
+</DIV>
+
+
+<FOOTER>
+   <HR>
+
+      <DIV class="left">
+         <A class="link" HREF="http://validator.w3.org/check?uri=https%3A%2F%2Fwww.akk.org%2Fchronologie.php">
+            <IMG SRC="/bilder/sonst/valid-html5.png" ALT="Valid HTML 5!" height="20" width="57">
+         </A>
+	 <A class="link" HREF="http://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fwww.akk.org%2Fchronologie.php">
+            <IMG SRC="/bilder/sonst/valid-css.png" ALT="Valid CSS!" height="20" width="57">
+         </A>
+      </DIV>
+
+   <DIV class="right">
+      <P>
+         <A class="impressum" HREF="/impressum.php">Impressum</A>
+      </P>
+      <P>
+         Letzte &Auml;nderung am<BR>
+         &nbsp;6.&nbsp;August&nbsp;2026
+         <BR>von <A HREF="/mailto.php?WWW">WWW-Team</A>
+      </P>
+   </DIV>
+
+   <DIV class="center">
+      <A class="link" HREF="http://www.akk.org/"><IMG SRC="/bilder/logos/akk-logo.klein.png" ALT="AKK-Home" width="46" height="20"></A> 
+      <A class="link" HREF="http://www.kit.edu/"><IMG SRC="/bilder/logos/kit-logo.klein.png" ALT="KIT" width="46" height="20"></A> 
+      <A class="link" HREF="http://www.asta-kit.de/"><IMG SRC="/bilder/logos/astakit-logo.klein.png" ALT="AStA-KIT" width="46" height="20"></A> 
+   </DIV>
+
+</FOOTER>
+
+</BODY>
+</HTML>

@@ -1,0 +1,86 @@
+[
+  {
+    "event_name": "SYBILLE BULLATSCHEK",
+    "event_date": "2026-09-13",
+    "event_time": "20:00",
+    "venue": "Tollhaus",
+    "link": "https://tickets.tollhaus.de/catalog/tickets/92744-tickets-sybille-bullatschek-kulturzentrum-tollhaus-karlsruhe-am-13-09-2026",
+    "source_event_id": "92744",
+    "category": null,
+    "image_url": null,
+    "price": null,
+    "has_description": false
+  },
+  {
+    "event_name": "MORITZ NEUMEIER",
+    "event_date": "2026-10-03",
+    "event_time": "20:00",
+    "venue": "Tollhaus",
+    "link": "https://tickets.tollhaus.de/catalog/tickets/87170-tickets-moritz-neumeier-kulturzentrum-tollhaus-karlsruhe-am-03-10-2026",
+    "source_event_id": "87170",
+    "category": null,
+    "image_url": null,
+    "price": null,
+    "has_description": false
+  },
+  {
+    "event_name": "CHAOSTHEATER OROPAX",
+    "event_date": "2026-10-09",
+    "event_time": "20:00",
+    "venue": "Tollhaus",
+    "link": "https://tickets.tollhaus.de/catalog/tickets/92835-tickets-chaostheater-oropax-kulturzentrum-tollhaus-karlsruhe-am-09-10-2026",
+    "source_event_id": "92835",
+    "category": null,
+    "image_url": null,
+    "price": null,
+    "has_description": false
+  },
+  {
+    "event_name": "NIGHTWASH LIVE",
+    "event_date": "2026-10-10",
+    "event_time": "20:00",
+    "venue": "Tollhaus",
+    "link": "https://tickets.tollhaus.de/catalog/tickets/92327-tickets-nightwash-live-kulturzentrum-tollhaus-karlsruhe-am-10-10-2026",
+    "source_event_id": "92327",
+    "category": null,
+    "image_url": null,
+    "price": null,
+    "has_description": false
+  },
+  {
+    "event_name": "PIGOR SINGT. BENEDIKT EICHHORN MUSS BEGLEITEN",
+    "event_date": "2026-10-10",
+    "event_time": "20:00",
+    "venue": "Tollhaus",
+    "link": "https://tickets.tollhaus.de/catalog/tickets/93390-tickets-pigor-singt-benedikt-eichhorn-muss-begleiten-kulturzentrum-tollhaus-karlsruhe-am-10-10-2026",
+    "source_event_id": "93390",
+    "category": null,
+    "image_url": null,
+    "price": null,
+    "has_description": false
+  },
+  {
+    "event_name": "FUCHSTHONE ORCHESTRA feat. EVI FILIPPOU",
+    "event_date": "2026-10-03",
+    "event_time": "20:00",
+    "venue": "Tollhaus",
+    "link": "https://tickets.tollhaus.de/catalog/tickets/94195-tickets-fuchsthone-orchestra-feat-evi-filippou-kulturzentrum-tollhaus-karlsruhe-am-03-10-2026",
+    "source_event_id": "94195",
+    "category": null,
+    "image_url": null,
+    "price": null,
+    "has_description": false
+  },
+  {
+    "event_name": "SVAVAR KNÙTUR",
+    "event_date": "2026-10-04",
+    "event_time": "20:00",
+    "venue": "Tollhaus",
+    "link": "https://tickets.tollhaus.de/catalog/tickets/92738-tickets-svavar-knutur-kulturzentrum-tollhaus-karlsruhe-am-04-10-2026",
+    "source_event_id": "92738",
+    "category": null,
+    "image_url": null,
+    "price": null,
+    "has_description": false
+  }
+]

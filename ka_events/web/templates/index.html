@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KA Events - Karlsruhe Event Calendar</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1><span class="logo-ka">KA</span>ggregator</h1>
+            <p class="subtitle">Karlsruhe Event Calendar</p>
+        </header>
+
+        <main>
+            <form method="get" action="{{ url_for('index') }}" class="filter-form">
+                <label for="venue">Location:</label>
+                <select name="venue" id="venue">
+                    <option value="">All Locations</option>
+                    {% for loc in locations %}
+                    <option value="{{ loc.value }}" {% if loc.value == selected_venue %}selected{% endif %}>{{ loc.label }}</option>
+                    {% endfor %}
+                </select>
+                <button type="submit">Filter</button>
+                {% if selected_venue %}
+                <a href="{{ url_for('index') }}" class="clear-filter">Clear</a>
+                {% endif %}
+            </form>
+
+            {% if events %}
+            <table class="events-table">
+                <thead>
+                    <tr>
+                        <th>Date</th>
+                        <th>Time</th>
+                        <th>Event</th>
+                        <th>Venue</th>
+                        <th>Link</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for event in events %}
+                    <tr>
+                        <td class="date">{{ event.event_date }}</td>
+                        <td class="time">{{ event.event_time or '-' }}</td>
+                        <td class="event-name">
+                            {{ event.event_name }}
+                            {% if event.category %}<span class="category">{{ event.category }}</span>{% endif %}
+                        </td>
+                        <td class="venue">{{ event.venue or '-' }}</td>
+                        <td class="link">
+                            {% if event.link %}
+                            <a href="{{ event.link }}" target="_blank" rel="noopener">Event Page</a>
+                            {% else %}
+                            -
+                            {% endif %}
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+            {% else %}
+            <div class="no-events">
+                <p>No upcoming events found.</p>
+                <p>Check back later!</p>
+            </div>
+            {% endif %}
+        </main>
+
+        <footer>
+            <p>KA Events &mdash; Plain HTML Event Aggregator for Karlsruhe</p>
+            <p class="meta">
+                <a href="{{ url_for('api_events') }}">JSON API</a> | 
+                <a href="{{ url_for('api_status') }}">Status</a>
+            </p>
+        </footer>
+    </div>
+</body>
+</html>

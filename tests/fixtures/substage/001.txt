@@ -1,0 +1,501 @@
+<script>
+$(document).ready(function() 
+{
+	$( "a[target='_modal_event']" ).on('click', function(event)
+	{
+		modalIsOpen = true;
+		pageurl = ""+$(this).attr('href');
+		pageTitle = pageurl;
+		window.history.pushState({"typ":"kalender","pageTitle":pageTitle,"pageurl":pageurl},"", pageurl);
+  		event.preventDefault();
+		$( "#StandardModalCont" ).load( "load_Modal.php?EventLink="+$(this).attr('href'), function() 
+		{
+			$('#StandardModal').modal('show');
+		});
+	});
+});
+</script>
+<div class='mod_kalender_element_holder mon_spacer'><div class='mod_kalender_Mon_element'><h2>August </h2></div><div class='row mod_kalender_element odo-reveal' data-threshold='15%'><div class='col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2 mod_kalender_date'>
+<div>Freitag</div><h2 class='mod_kalender_datum'>07.08.26</h2><div>Beginn: 19:00 Uhr</div><div>Einlass: 18:00 Uhr</div><div>Location: <b>Halle</b></div></div><div class='col-12 col-sm-8 col-md-9 col-lg-10 col-xl-10'>
+<div class='row'><div class='col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4'>
+<a href='programm/4203/' title='Schnellansicht' target='_modal_event'>
+<div class='relative'><div class='coverImage-sizer coverImage-sizer-16-9'>
+<div class='coverImage-sizer-inner'>
+<img title='Schnellansicht' alt='' class='object-fit-image' src='inhalte/mod_kalender/4203/bild/pth-2025-color.jpg'>
+</div>
+</div>
+</div></div><div class='col-12 col-sm-12 col-md-6 col-lg-5 col-xl-5 mod_kalender_title_txt'>
+<h2>PROTEST THE HERO</h2><div class='EventKurzinfo'><div><p>+ special guests: Benthos // Monosphere</p></div><div><p>Tickets via reservix.de &nbsp;&amp; eventim.de&nbsp;</p></div></div></div></a>
+<div class='col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 mod_kalender_buttons'>
+<div><a href='programm/4203/' target='_modal_event' class='btn btn-primary inline-block' role='button'>Mehr erfahren</a><a href='https://www.reservix.de/p/reservix/event/2556630' target='_blank' class='btn btn-primary inverted inline-block' role='button'>Ticket kaufen</a></div></div></div></div></div></div><div class='mod_kalender_element_holder '><div class='row mod_kalender_element odo-reveal' data-threshold='15%'><div class='col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2 mod_kalender_date'>
+<div>Samstag</div><h2 class='mod_kalender_datum'>08.08.26</h2><div>Beginn: 20:00 Uhr</div><div>Einlass: 19:00 Uhr</div><div>Location: <b>Halle</b></div></div><div class='col-12 col-sm-8 col-md-9 col-lg-10 col-xl-10'>
+<div class='row'><div class='col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4'>
+<a href='programm/4219/' title='Schnellansicht' target='_modal_event'>
+<div class='relative'><div class='coverImage-sizer coverImage-sizer-16-9'>
+<div class='coverImage-sizer-inner'>
+<img title='Schnellansicht' alt='' class='object-fit-image' src='inhalte/mod_kalender/4219/bild/lagwagon-ilkaykarakurt-2.jpg'>
+</div>
+</div>
+</div></div><div class='col-12 col-sm-12 col-md-6 col-lg-5 col-xl-5 mod_kalender_title_txt'>
+<h2>LAGWAGON</h2><div class='EventKurzinfo'><div><p>Support: BOKASSA</p></div><div><p>LET'S TALK ABOUT HOSS</p></div></div></div></a>
+<div class='col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 mod_kalender_buttons'>
+<div><a href='programm/4219/' target='_modal_event' class='btn btn-primary inline-block' role='button'>Mehr erfahren</a><a href='https://substage.reservix.de/p/reservix/event/2512855' target='_blank' class='btn btn-primary inverted inline-block' role='button'>Ticket kaufen</a></div></div></div></div></div></div><div class='mod_kalender_element_holder '><div class='row mod_kalender_element odo-reveal' data-threshold='15%'><div class='col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2 mod_kalender_date'>
+<div>Dienstag</div><h2 class='mod_kalender_datum'>11.08.26</h2><div>Beginn: 20:00 Uhr</div><div>Einlass: 19:00 Uhr</div><div>Location: <b>Halle</b></div></div><div class='col-12 col-sm-8 col-md-9 col-lg-10 col-xl-10'>
+<div class='row'><div class='col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4'>
+<a href='programm/4157/' title='Schnellansicht' target='_modal_event'>
+<div class='relative'><div class='soldout'>Ausverkauft!</div><div class='coverImage-sizer coverImage-sizer-16-9'>
+<div class='coverImage-sizer-inner'>
+<img title='Schnellansicht' alt='' class='object-fit-image' src='inhalte/mod_kalender/4157/bild/testament-kopie.jpg'>
+</div>
+</div>
+</div></div><div class='col-12 col-sm-12 col-md-6 col-lg-5 col-xl-5 mod_kalender_title_txt'>
+<h2>TESTAMENT</h2><div class='EventKurzinfo'><div><p>Special guests: Death Angel + Metal Church</p></div></div></div></a>
+<div class='col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 mod_kalender_buttons'>
+<div><a href='programm/4157/' target='_modal_event' class='btn btn-primary inline-block' role='button'>Mehr erfahren</a><span class='btn btn-danger inline-block'>Ausverkauft!</span></div></div></div></div></div></div><div class='mod_kalender_element_holder mon_spacer'><div class='mod_kalender_Mon_element'><h2>September </h2></div><div class='row mod_kalender_element odo-reveal' data-threshold='15%'><div class='col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2 mod_kalender_date'>
+<div>Samstag</div><h2 class='mod_kalender_datum'>19.09.26</h2><div>Beginn: 19:00 Uhr</div><div>Einlass: 18:00 Uhr</div><div>Location: <b>Halle</b></div></div><div class='col-12 col-sm-8 col-md-9 col-lg-10 col-xl-10'>
+<div class='row'><div class='col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4'>
+<a href='programm/4356/' title='Schnellansicht' target='_modal_event'>
+<div class='relative'><div class='coverImage-sizer coverImage-sizer-16-9'>
+<div class='coverImage-sizer-inner'>
+<img title='Schnellansicht' alt='' class='object-fit-image' src='inhalte/mod_kalender/4356/bild/love-music-fight-fascism-poster-final--1280-x-720-px-.png'>
+</div>
+</div>
+</div></div><div class='col-12 col-sm-12 col-md-6 col-lg-5 col-xl-5 mod_kalender_title_txt'>
+<h2>LOVE MUSIC - FIGHT FASCISM VOL. 2</h2><div class='EventKurzinfo'><div><p>Line-Up 2026: AMEWU, SNAYX, MAD KITTEN, TYLES</p></div></div></div></a>
+<div class='col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 mod_kalender_buttons'>
+<div><a href='programm/4356/' target='_modal_event' class='btn btn-primary inline-block' role='button'>Mehr erfahren</a><a href='https://substage.reservix.de/p/reservix/event/2583396' target='_blank' class='btn btn-primary inverted inline-block' role='button'>Ticket kaufen</a></div></div></div></div></div></div><div class='mod_kalender_element_holder '><div class='row mod_kalender_element odo-reveal' data-threshold='15%'><div class='col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2 mod_kalender_date'>
+<div>Sonntag</div><h2 class='mod_kalender_datum'>20.09.26</h2><div>Beginn: 19:00 Uhr</div><div>Einlass: 18:00 Uhr</div><div>Location: <b>Halle</b></div></div><div class='col-12 col-sm-8 col-md-9 col-lg-10 col-xl-10'>
+<div class='row'><div class='col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4'>
+<a href='programm/4150/' title='Schnellansicht' target='_modal_event'>
+<div class='relative'><div class='coverImage-sizer coverImage-sizer-16-9'>
+<div class='coverImage-sizer-inner'>
+<img title='Schnellansicht' alt='' class='object-fit-image' src='inhalte/mod_kalender/4150/bild/fear-factory-1--3000px.jpg'>
+</div>
+</div>
+</div></div><div class='col-12 col-sm-12 col-md-6 col-lg-5 col-xl-5 mod_kalender_title_txt'>
+<h2>FEAR FACTORY</h2><div class='EventKurzinfo'><div><p>Special guests: CRYSTAL LAKE, HATE + THE NOCTURNAL AFFAIR</p></div></div></div></a>
+<div class='col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 mod_kalender_buttons'>
+<div><a href='programm/4150/' target='_modal_event' class='btn btn-primary inline-block' role='button'>Mehr erfahren</a><a href='https://substage.reservix.de/p/reservix/event/2543006' target='_blank' class='btn btn-primary inverted inline-block' role='button'>Ticket kaufen</a></div></div></div></div></div></div><div class='mod_kalender_element_holder '><div class='row mod_kalender_element odo-reveal' data-threshold='15%'><div class='col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2 mod_kalender_date'>
+<div>Donnerstag</div><h2 class='mod_kalender_datum'>24.09.26</h2><div>Beginn: 20:00 Uhr</div><div>Einlass: 19:00 Uhr</div><div>Location: <b>Halle</b></div></div><div class='col-12 col-sm-8 col-md-9 col-lg-10 col-xl-10'>
+<div class='row'><div class='col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4'>
+<a href='programm/3966/' title='Schnellansicht' target='_modal_event'>
+<div class='relative'><div class='coverImage-sizer coverImage-sizer-16-9'>
+<div class='coverImage-sizer-inner'>
+<img title='Schnellansicht' alt='' class='object-fit-image' src='inhalte/mod_kalender/3966/bild/pr-2-jj-tour-c-sandra-ludewig.jpg'>
+</div>
+</div>
+</div></div><div class='col-12 col-sm-12 col-md-6 col-lg-5 col-xl-5 mod_kalender_title_txt'>
+<h2>JUPITER JONES </h2><div class='EventKurzinfo'><div><p>Special guests: THE PROPS</p></div><div><p>&bdquo;Ich trag den Sarg, Du tr&auml;gst was Buntes&ldquo; - Tour 2026</p></div></div></div></a>
+<div class='col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 mod_kalender_buttons'>
+<div><a href='programm/3966/' target='_modal_event' class='btn btn-primary inline-block' role='button'>Mehr erfahren</a><a href='https://substage.reservix.de/p/reservix/event/2515993' target='_blank' class='btn btn-primary inverted inline-block' role='button'>Ticket kaufen</a></div></div></div></div></div></div><div class='mod_kalender_element_holder '><div class='row mod_kalender_element odo-reveal' data-threshold='15%'><div class='col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2 mod_kalender_date'>
+<div>Samstag</div><h2 class='mod_kalender_datum'>26.09.26</h2><div>Beginn: 20:00 Uhr</div><div>Einlass: 19:00 Uhr</div><div>Location: <b>Minestrone</b></div></div><div class='col-12 col-sm-8 col-md-9 col-lg-10 col-xl-10'>
+<div class='row'><div class='col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4'>
+<a href='programm/4174/' title='Schnellansicht' target='_modal_event'>
+<div class='relative'><div class='coverImage-sizer coverImage-sizer-16-9'>
+<div class='coverImage-sizer-inner'>
+<img title='Schnellansicht' alt='' class='object-fit-image' src='inhalte/mod_kalender/4174/bild/allure-2026.jpg'>
+</div>
+</div>
+</div></div><div class='col-12 col-sm-12 col-md-6 col-lg-5 col-xl-5 mod_kalender_title_txt'>
+<h2>ALLURE â Folia Album Release Show</h2><div class='EventKurzinfo'><div><p>Guests:&nbsp;DIEVERSITY, LUCIDRAE</p></div></div></div></a>
+<div class='col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 mod_kalender_buttons'>
+<div><a href='programm/4174/' target='_modal_event' class='btn btn-primary inline-block' role='button'>Mehr erfahren</a></div></div></div></div></div></div><div class='mod_kalender_element_holder '><div class='row mod_kalender_element odo-reveal' data-threshold='15%'><div class='col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2 mod_kalender_date'>
+<div>Sonntag</div><h2 class='mod_kalender_datum'>27.09.26</h2><div>Beginn: 18:30 Uhr</div><div>Einlass: 17:30 Uhr</div><div>Location: <b>Halle</b></div></div><div class='col-12 col-sm-8 col-md-9 col-lg-10 col-xl-10'>
+<div class='row'><div class='col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4'>
+<a href='programm/4049/' title='Schnellansicht' target='_modal_event'>
+<div class='relative'><div class='coverImage-sizer coverImage-sizer-16-9'>
+<div class='coverImage-sizer-inner'>
+<img title='Schnellansicht' alt='' class='object-fit-image' src='inhalte/mod_kalender/4049/bild/soi-promos-2025-4.jpg'>
+</div>
+</div>
+</div></div><div class='col-12 col-sm-12 col-md-6 col-lg-5 col-xl-5 mod_kalender_title_txt'>
+<h2>SHADOW OF INTENT</h2><div class='EventKurzinfo'><div><p>+ special guests: Aborted, Disembodied Tyrant, Soreption</p></div><div><p>&ldquo;IMPERIUM DELIRIUM&rdquo; EUROPEAN TOUR 2026</p></div></div></div></a>
+<div class='col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 mod_kalender_buttons'>
+<div><a href='programm/4049/' target='_modal_event' class='btn btn-primary inline-block' role='button'>Mehr erfahren</a><a href='https://www.reservix.de/p/reservix/event/2536845' target='_blank' class='btn btn-primary inverted inline-block' role='button'>Ticket kaufen</a></div></div></div></div></div></div><div class='mod_kalender_element_holder mon_spacer'><div class='mod_kalender_Mon_element'><h2>Oktober </h2></div><div class='row mod_kalender_element odo-reveal' data-threshold='15%'><div class='col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2 mod_kalender_date'>
+<div>Donnerstag</div><h2 class='mod_kalender_datum'>08.10.26</h2><div>Beginn: 18:30 Uhr</div><div>Einlass: 17:30 Uhr</div><div>Location: <b>Halle</b></div></div><div class='col-12 col-sm-8 col-md-9 col-lg-10 col-xl-10'>
+<div class='row'><div class='col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4'>
+<a href='programm/4162/' title='Schnellansicht' target='_modal_event'>
+<div class='relative'><div class='coverImage-sizer coverImage-sizer-16-9'>
+<div class='coverImage-sizer-inner'>
+<img title='Schnellansicht' alt='' class='object-fit-image' src='inhalte/mod_kalender/4162/bild/alpha-wolf-2026.jpg'>
+</div>
+</div>
+</div></div><div class='col-12 col-sm-12 col-md-6 col-lg-5 col-xl-5 mod_kalender_title_txt'>
+<h2>ALPHA WOLF</h2><div class='EventKurzinfo'><div><p>+ PSYCHO-FRAME// FOX LAKE// DIAMOND CONSTRUCT</p></div><div><p>Let it Rip Tour EU/UK 2026</p></div></div></div></a>
+<div class='col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 mod_kalender_buttons'>
+<div><a href='programm/4162/' target='_modal_event' class='btn btn-primary inline-block' role='button'>Mehr erfahren</a><a href='https://substage.reservix.de/p/reservix/event/2546289' target='_blank' class='btn btn-primary inverted inline-block' role='button'>Ticket kaufen</a></div></div></div></div></div></div><div class='mod_kalender_element_holder '><div class='row mod_kalender_element odo-reveal' data-threshold='15%'><div class='col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2 mod_kalender_date'>
+<div>Freitag</div><h2 class='mod_kalender_datum'>09.10.26</h2><div>Beginn: 20:00 Uhr</div><div>Einlass: 19:00 Uhr</div><div>Location: <b>Halle</b></div></div><div class='col-12 col-sm-8 col-md-9 col-lg-10 col-xl-10'>
+<div class='row'><div class='col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4'>
+<a href='programm/4097/' title='Schnellansicht' target='_modal_event'>
+<div class='relative'><div class='coverImage-sizer coverImage-sizer-16-9'>
+<div class='coverImage-sizer-inner'>
+<img title='Schnellansicht' alt='' class='object-fit-image' src='inhalte/mod_kalender/4097/bild/mariybu1-liv-plotz-erweitert.jpg'>
+</div>
+</div>
+</div></div><div class='col-12 col-sm-12 col-md-6 col-lg-5 col-xl-5 mod_kalender_title_txt'>
+<h2> MARIYBU </h2><div class='EventKurzinfo'><div><p><a href="https://www.youtube.com/watch?v=avX3IvU3glk" target="_blank" rel="noopener noreferrer">Video zu "Nicht alle M&auml;nner"</a></p></div><div><p>FRECH Tour</p></div></div></div></a>
+<div class='col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 mod_kalender_buttons'>
+<div><a href='programm/4097/' target='_modal_event' class='btn btn-primary inline-block' role='button'>Mehr erfahren</a><a href='https://substage.reservix.de/p/reservix/event/2482968' target='_blank' class='btn btn-primary inverted inline-block' role='button'>Ticket kaufen</a></div></div></div></div></div></div><div class='mod_kalender_element_holder '><div class='row mod_kalender_element odo-reveal' data-threshold='15%'><div class='col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2 mod_kalender_date'>
+<div>Samstag</div><h2 class='mod_kalender_datum'>10.10.26</h2><div>Beginn: 20:00 Uhr</div><div>Einlass: 19:00 Uhr</div><div>Location: <b>Halle</b></div></div><div class='col-12 col-sm-8 col-md-9 col-lg-10 col-xl-10'>
+<div class='row'><div class='col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4'>
+<a href='programm/4154/' title='Schnellansicht' target='_modal_event'>
+<div class='relative'><div class='coverImage-sizer coverImage-sizer-16-9'>
+<div class='coverImage-sizer-inner'>
+<img title='Schnellansicht' alt='' class='object-fit-image' src='inhalte/mod_kalender/4154/bild/img-0152.jpeg'>
+</div>
+</div>
+</div></div><div class='col-12 col-sm-12 col-md-6 col-lg-5 col-xl-5 mod_kalender_title_txt'>
+<h2>DRAGCLASH</h2><div class='EventKurzinfo'><div><p>Karlsruhes ultimativer Drag-Wettbewerb (Volume 4)<br />Moderiert von Patsy B. Ducklings</p></div><div><p>In Kooperation mit queerKAstle<br />Tickets gibt's nur via&nbsp;<a href="http://www.dragclash.de/tickets" target="_blank" rel="noopener noreferrer">www.dragclash.de/tickets</a></p></div></div></div></a>
+<div class='col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 mod_kalender_buttons'>
+<div><a href='programm/4154/' target='_modal_event' class='btn btn-primary inline-block' role='button'>Mehr erfahren</a><a href='http://www.dragclash.de/tickets' target='_blank' class='btn btn-primary inverted inline-block' role='button'>Ticket kaufen</a></div></div></div></div></div></div><div class='mod_kalender_element_holder '><div class='row mod_kalender_element odo-reveal' data-threshold='15%'><div class='col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2 mod_kalender_date'>
+<div>Freitag</div><h2 class='mod_kalender_datum'>23.10.26</h2><div>Beginn: 20:00 Uhr</div><div>Einlass: 19:00 Uhr</div><div>Location: <b>Halle</b></div></div><div class='col-12 col-sm-8 col-md-9 col-lg-10 col-xl-10'>
+<div class='row'><div class='col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4'>
+<a href='programm/4056/' title='Schnellansicht' target='_modal_event'>
+<div class='relative'><div class='coverImage-sizer coverImage-sizer-16-9'>
+<div class='coverImage-sizer-inner'>
+<img title='Schnellansicht' alt='' class='object-fit-image' src='inhalte/mod_kalender/4056/bild/tito-2024--3-c--lolita-carroll-larriva-kopie.jpg'>
+</div>
+</div>
+</div></div><div class='col-12 col-sm-12 col-md-6 col-lg-5 col-xl-5 mod_kalender_title_txt'>
+<h2>TITO & TARANTULA</h2><div class='EventKurzinfo'></div></div></a>
+<div class='col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 mod_kalender_buttons'>
+<div><a href='programm/4056/' target='_modal_event' class='btn btn-primary inline-block' role='button'>Mehr erfahren</a><a href='https://substage.reservix.de/p/reservix/event/2490442' target='_blank' class='btn btn-primary inverted inline-block' role='button'>Ticket kaufen</a></div></div></div></div></div></div><div class='mod_kalender_element_holder '><div class='row mod_kalender_element odo-reveal' data-threshold='15%'><div class='col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2 mod_kalender_date'>
+<div>Freitag</div><h2 class='mod_kalender_datum'>30.10.26</h2><div>Beginn: 20:00 Uhr</div><div>Einlass: 19:00 Uhr</div><div>Location: <b>Halle</b></div></div><div class='col-12 col-sm-8 col-md-9 col-lg-10 col-xl-10'>
+<div class='row'><div class='col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4'>
+<a href='programm/4160/' title='Schnellansicht' target='_modal_event'>
+<div class='relative'><div class='coverImage-sizer coverImage-sizer-16-9'>
+<div class='coverImage-sizer-inner'>
+<img title='Schnellansicht' alt='' class='object-fit-image' src='inhalte/mod_kalender/4160/bild/ph25-03-mbh22553-2.jpg'>
+</div>
+</div>
+</div></div><div class='col-12 col-sm-12 col-md-6 col-lg-5 col-xl-5 mod_kalender_title_txt'>
+<h2>POTHEAD</h2><div class='EventKurzinfo'><div><p>Pothead &ndash; goes long Tour 2026</p></div></div></div></a>
+<div class='col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 mod_kalender_buttons'>
+<div><a href='programm/4160/' target='_modal_event' class='btn btn-primary inline-block' role='button'>Mehr erfahren</a><a href='https://substage.reservix.de/p/reservix/event/2476535' target='_blank' class='btn btn-primary inverted inline-block' role='button'>Ticket kaufen</a></div></div></div></div></div></div><div class='mod_kalender_element_holder '><div class='row mod_kalender_element odo-reveal' data-threshold='15%'><div class='col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2 mod_kalender_date'>
+<div>Samstag</div><h2 class='mod_kalender_datum'>31.10.26</h2><div>Beginn: 19:00 Uhr</div><div>Einlass: 18:00 Uhr</div><div>Location: <b>Halle</b></div></div><div class='col-12 col-sm-8 col-md-9 col-lg-10 col-xl-10'>
+<div class='row'><div class='col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4'>
+<a href='programm/3836/' title='Schnellansicht' target='_modal_event'>
+<div class='relative'><div class='coverImage-sizer coverImage-sizer-16-9'>
+<div class='coverImage-sizer-inner'>
+<img title='Schnellansicht' alt='' class='object-fit-image' src='inhalte/mod_kalender/3836/bild/across-the-border-bandfoto.jpg'>
+</div>
+</div>
+</div></div><div class='col-12 col-sm-12 col-md-6 col-lg-5 col-xl-5 mod_kalender_title_txt'>
+<h2>ACROSS THE BORDER â 35- jÃ¤hriges JubilÃ¤um!</h2><div class='EventKurzinfo'><div><p>+ Special guests: Big Bag of Sticks &amp; The Krusty Moors</p></div></div></div></a>
+<div class='col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 mod_kalender_buttons'>
+<div><a href='programm/3836/' target='_modal_event' class='btn btn-primary inline-block' role='button'>Mehr erfahren</a><a href='https://substage.reservix.de/p/reservix/event/2492306' target='_blank' class='btn btn-primary inverted inline-block' role='button'>Ticket kaufen</a></div></div></div></div></div></div><div class='mod_kalender_element_holder mon_spacer'><div class='mod_kalender_Mon_element'><h2>November </h2></div><div class='row mod_kalender_element odo-reveal' data-threshold='15%'><div class='col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2 mod_kalender_date'>
+<div>Freitag</div><h2 class='mod_kalender_datum'>06.11.26</h2><div>Beginn: 20:00 Uhr</div><div>Einlass: 19:00 Uhr</div><div>Location: <b>Halle</b></div></div><div class='col-12 col-sm-8 col-md-9 col-lg-10 col-xl-10'>
+<div class='row'><div class='col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4'>
+<a href='programm/3936/' title='Schnellansicht' target='_modal_event'>
+<div class='relative'><div class='coverImage-sizer coverImage-sizer-16-9'>
+<div class='coverImage-sizer-inner'>
+<img title='Schnellansicht' alt='' class='object-fit-image' src='inhalte/mod_kalender/3936/bild/itchy-presse26-4b-cdominikdrossart-kopie.jpg'>
+</div>
+</div>
+</div></div><div class='col-12 col-sm-12 col-md-6 col-lg-5 col-xl-5 mod_kalender_title_txt'>
+<h2>ITCHY</h2><div class='EventKurzinfo'><div><p>Special guests: THE MEFFS</p></div></div></div></a>
+<div class='col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 mod_kalender_buttons'>
+<div><a href='programm/3936/' target='_modal_event' class='btn btn-primary inline-block' role='button'>Mehr erfahren</a><a href='https://substage.reservix.de/p/reservix/event/2512285' target='_blank' class='btn btn-primary inverted inline-block' role='button'>Ticket kaufen</a></div></div></div></div></div></div><div class='mod_kalender_element_holder '><div class='row mod_kalender_element odo-reveal' data-threshold='15%'><div class='col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2 mod_kalender_date'>
+<div>Mittwoch</div><h2 class='mod_kalender_datum'>11.11.26</h2><div>Beginn: 18:30 Uhr</div><div>Einlass: 17:30 Uhr</div><div>Location: <b>Halle</b></div></div><div class='col-12 col-sm-8 col-md-9 col-lg-10 col-xl-10'>
+<div class='row'><div class='col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4'>
+<a href='programm/4227/' title='Schnellansicht' target='_modal_event'>
+<div class='relative'><div class='coverImage-sizer coverImage-sizer-16-9'>
+<div class='coverImage-sizer-inner'>
+<img title='Schnellansicht' alt='' class='object-fit-image' src='inhalte/mod_kalender/4227/bild/archspire-2025-track-suits-alex-morgan-9.jpg'>
+</div>
+</div>
+</div></div><div class='col-12 col-sm-12 col-md-6 col-lg-5 col-xl-5 mod_kalender_title_txt'>
+<h2>ARCHSPIRE</h2><div class='EventKurzinfo'><div><p>+ CROWN MAGNETAR// THE ZENITH PASSAGE// ANALEPSY</p></div><div><p>European Vacation Tour 2026</p></div></div></div></a>
+<div class='col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 mod_kalender_buttons'>
+<div><a href='programm/4227/' target='_modal_event' class='btn btn-primary inline-block' role='button'>Mehr erfahren</a><a href='https://www.reservix.de/p/reservix/event/2551344' target='_blank' class='btn btn-primary inverted inline-block' role='button'>Ticket kaufen</a></div></div></div></div></div></div><div class='mod_kalender_element_holder '><div class='row mod_kalender_element odo-reveal' data-threshold='15%'><div class='col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2 mod_kalender_date'>
+<div>Freitag</div><h2 class='mod_kalender_datum'>13.11.26</h2><div>Beginn: 18:30 Uhr</div><div>Einlass: 17:30 Uhr</div><div>Location: <b>Halle</b></div></div><div class='col-12 col-sm-8 col-md-9 col-lg-10 col-xl-10'>
+<div class='row'><div class='col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4'>
+<a href='programm/4245/' title='Schnellansicht' target='_modal_event'>
+<div class='relative'><div class='coverImage-sizer coverImage-sizer-16-9'>
+<div class='coverImage-sizer-inner'>
+<img title='Schnellansicht' alt='' class='object-fit-image' src='inhalte/mod_kalender/4245/bild/converge-2025.jpeg'>
+</div>
+</div>
+</div></div><div class='col-12 col-sm-12 col-md-6 col-lg-5 col-xl-5 mod_kalender_title_txt'>
+<h2>CONVERGE</h2><div class='EventKurzinfo'><div><p>+ SANGUISUGABOGG// BLACKBRAID// PUPIL SLICER</p></div><div><p>EU/UK Tour</p></div></div></div></a>
+<div class='col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 mod_kalender_buttons'>
+<div><a href='programm/4245/' target='_modal_event' class='btn btn-primary inline-block' role='button'>Mehr erfahren</a><a href='https://www.reservix.de/p/reservix/event/2584052' target='_blank' class='btn btn-primary inverted inline-block' role='button'>Ticket kaufen</a></div></div></div></div></div></div><div class='mod_kalender_element_holder '><div class='row mod_kalender_element odo-reveal' data-threshold='15%'><div class='col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2 mod_kalender_date'>
+<div>Samstag</div><h2 class='mod_kalender_datum'>14.11.26</h2><div>Beginn: 19:30 Uhr</div><div>Einlass: 18:30 Uhr</div><div>Location: <b>Halle</b></div></div><div class='col-12 col-sm-8 col-md-9 col-lg-10 col-xl-10'>
+<div class='row'><div class='col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4'>
+<a href='programm/3987/' title='Schnellansicht' target='_modal_event'>
+<div class='relative'><div class='soldout'>Ausverkauft!</div><div class='coverImage-sizer coverImage-sizer-16-9'>
+<div class='coverImage-sizer-inner'>
+<img title='Schnellansicht' alt='' class='object-fit-image' src='inhalte/mod_kalender/3987/bild/swiss-c--lee-mass.jpg'>
+</div>
+</div>
+</div></div><div class='col-12 col-sm-12 col-md-6 col-lg-5 col-xl-5 mod_kalender_title_txt'>
+<h2>SWISS & DIE ANDERN</h2><div class='EventKurzinfo'><div><p>Special guest: Moonkid</p></div></div></div></a>
+<div class='col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 mod_kalender_buttons'>
+<div><a href='programm/3987/' target='_modal_event' class='btn btn-primary inline-block' role='button'>Mehr erfahren</a><span class='btn btn-danger inline-block'>Ausverkauft!</span></div></div></div></div></div></div><div class='mod_kalender_element_holder '><div class='row mod_kalender_element odo-reveal' data-threshold='15%'><div class='col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2 mod_kalender_date'>
+<div>Mittwoch</div><h2 class='mod_kalender_datum'>18.11.26</h2><div>Beginn: 20:00 Uhr</div><div>Einlass: 19:00 Uhr</div><div>Location: <b>Halle</b></div></div><div class='col-12 col-sm-8 col-md-9 col-lg-10 col-xl-10'>
+<div class='row'><div class='col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4'>
+<a href='programm/4292/' title='Schnellansicht' target='_modal_event'>
+<div class='relative'><div class='coverImage-sizer coverImage-sizer-16-9'>
+<div class='coverImage-sizer-inner'>
+<img title='Schnellansicht' alt='' class='object-fit-image' src='inhalte/mod_kalender/4292/bild/263fa79b-tli-pic-2-wide-crop.jpg'>
+</div>
+</div>
+</div></div><div class='col-12 col-sm-12 col-md-6 col-lg-5 col-xl-5 mod_kalender_title_txt'>
+<h2>THE LAST INTERNATIONALE</h2></div></a>
+<div class='col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 mod_kalender_buttons'>
+<div><a href='programm/4292/' target='_modal_event' class='btn btn-primary inline-block' role='button'>Mehr erfahren</a><a href='https://www.reservix.de/p/reservix/event/2567109' target='_blank' class='btn btn-primary inverted inline-block' role='button'>Ticket kaufen</a></div></div></div></div></div></div><div class='mod_kalender_element_holder '><div class='row mod_kalender_element odo-reveal' data-threshold='15%'><div class='col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2 mod_kalender_date'>
+<div>Freitag</div><h2 class='mod_kalender_datum'>20.11.26</h2><div>Beginn: 18:30 Uhr</div><div>Einlass: 17:30 Uhr</div><div>Location: <b>Halle</b></div></div><div class='col-12 col-sm-8 col-md-9 col-lg-10 col-xl-10'>
+<div class='row'><div class='col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4'>
+<a href='programm/4138/' title='Schnellansicht' target='_modal_event'>
+<div class='relative'><div class='coverImage-sizer coverImage-sizer-16-9'>
+<div class='coverImage-sizer-inner'>
+<img title='Schnellansicht' alt='' class='object-fit-image' src='inhalte/mod_kalender/4138/bild/2---despised-icon-2025---photographer-eric-sanchez.jpg'>
+</div>
+</div>
+</div></div><div class='col-12 col-sm-12 col-md-6 col-lg-5 col-xl-5 mod_kalender_title_txt'>
+<h2>DESPISED ICON + CARNIFEX </h2><div class='EventKurzinfo'><div><p>+ special guests: Suffocation, Gates to Hell</p></div><div><p>&nbsp;IMPERICON FESTIVAL presents DEATH DOMINION EU 2026.</p></div></div></div></a>
+<div class='col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 mod_kalender_buttons'>
+<div><a href='programm/4138/' target='_modal_event' class='btn btn-primary inline-block' role='button'>Mehr erfahren</a><a href='https://www.reservix.de/p/reservix/event/2539222' target='_blank' class='btn btn-primary inverted inline-block' role='button'>Ticket kaufen</a></div></div></div></div></div></div><div class='mod_kalender_element_holder '><div class='row mod_kalender_element odo-reveal' data-threshold='15%'><div class='col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2 mod_kalender_date'>
+<div>Freitag</div><h2 class='mod_kalender_datum'>27.11.26</h2><div>Beginn: 20:00 Uhr</div><div>Einlass: 19:00 Uhr</div><div>Location: <b>Halle</b></div></div><div class='col-12 col-sm-8 col-md-9 col-lg-10 col-xl-10'>
+<div class='row'><div class='col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4'>
+<a href='programm/4229/' title='Schnellansicht' target='_modal_event'>
+<div class='relative'><div class='coverImage-sizer coverImage-sizer-16-9'>
+<div class='coverImage-sizer-inner'>
+<img title='Schnellansicht' alt='' class='object-fit-image' src='inhalte/mod_kalender/4229/bild/3--bosse-sp26-cchristoph-eisenmenger.jpg'>
+</div>
+</div>
+</div></div><div class='col-12 col-sm-12 col-md-6 col-lg-5 col-xl-5 mod_kalender_title_txt'>
+<h2>BOSSE</h2><div class='EventKurzinfo'><div><p>Stabile Poesie &ndash; Clubtour 2026</p></div><div><p>VVK exklusiv via <a href="https://www.eventim.de/event/bosse-stabile-poesie-tour-2026-substage-karlsruhe-21686529/">eventim.de</a></p></div></div></div></a>
+<div class='col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 mod_kalender_buttons'>
+<div><a href='programm/4229/' target='_modal_event' class='btn btn-primary inline-block' role='button'>Mehr erfahren</a><a href='https://www.eventim.de/event/bosse-stabile-poesie-tour-2026-substage-karlsruhe-21686529/' target='_blank' class='btn btn-primary inverted inline-block' role='button'>Ticket kaufen</a></div></div></div></div></div></div><div class='mod_kalender_element_holder mon_spacer'><div class='mod_kalender_Mon_element'><h2>Dezember </h2></div><div class='row mod_kalender_element odo-reveal' data-threshold='15%'><div class='col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2 mod_kalender_date'>
+<div>Freitag</div><h2 class='mod_kalender_datum'>04.12.26</h2><div>Beginn: 19:00 Uhr</div><div>Einlass: 18:00 Uhr</div><div>Location: <b>Halle</b></div></div><div class='col-12 col-sm-8 col-md-9 col-lg-10 col-xl-10'>
+<div class='row'><div class='col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4'>
+<a href='programm/4266/' title='Schnellansicht' target='_modal_event'>
+<div class='relative'><div class='coverImage-sizer coverImage-sizer-16-9'>
+<div class='coverImage-sizer-inner'>
+<img title='Schnellansicht' alt='' class='object-fit-image' src='inhalte/mod_kalender/4266/bild/design-ohne-titel-2-.png'>
+</div>
+</div>
+</div></div><div class='col-12 col-sm-12 col-md-6 col-lg-5 col-xl-5 mod_kalender_title_txt'>
+<h2>TERROR</h2><div class='EventKurzinfo'><div><p>Special Guest: BANE, START TODAY, PEACE OF MIND</p></div><div><p>EUROPE 2026</p></div></div></div></a>
+<div class='col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 mod_kalender_buttons'>
+<div><a href='programm/4266/' target='_modal_event' class='btn btn-primary inline-block' role='button'>Mehr erfahren</a><a href='https://substage.reservix.de/p/reservix/event/2589522' target='_blank' class='btn btn-primary inverted inline-block' role='button'>Ticket kaufen</a></div></div></div></div></div></div><div class='mod_kalender_element_holder '><div class='row mod_kalender_element odo-reveal' data-threshold='15%'><div class='col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2 mod_kalender_date'>
+<div>Mittwoch</div><h2 class='mod_kalender_datum'>09.12.26</h2><div>Beginn: 19:00 Uhr</div><div>Einlass: 18:00 Uhr</div><div>Location: <b>Halle</b></div></div><div class='col-12 col-sm-8 col-md-9 col-lg-10 col-xl-10'>
+<div class='row'><div class='col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4'>
+<a href='programm/4344/' title='Schnellansicht' target='_modal_event'>
+<div class='relative'><div class='coverImage-sizer coverImage-sizer-16-9'>
+<div class='coverImage-sizer-inner'>
+<img title='Schnellansicht' alt='' class='object-fit-image' src='inhalte/mod_kalender/4344/bild/evergrey-barcelona-lindaflorin-2025-1-20.jpg'>
+</div>
+</div>
+</div></div><div class='col-12 col-sm-12 col-md-6 col-lg-5 col-xl-5 mod_kalender_title_txt'>
+<h2>EVERGREY</h2><div class='EventKurzinfo'><div><p>Special Guests: IGNEA, STELLAR CIRCUITS</p></div><div><p>&ldquo;ARCHITECTS OF A NEW WEAVE&rdquo;&nbsp; EUROPEAN TOUR 2026</p></div></div></div></a>
+<div class='col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 mod_kalender_buttons'>
+<div><a href='programm/4344/' target='_modal_event' class='btn btn-primary inline-block' role='button'>Mehr erfahren</a><a href='https://www.reservix.de/p/reservix/event/2574445' target='_blank' class='btn btn-primary inverted inline-block' role='button'>Ticket kaufen</a></div></div></div></div></div></div><div class='mod_kalender_element_holder '><div class='row mod_kalender_element odo-reveal' data-threshold='15%'><div class='col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2 mod_kalender_date'>
+<div>Freitag</div><h2 class='mod_kalender_datum'>11.12.26</h2><div>Beginn: 19:00 Uhr</div><div>Einlass: 18:00 Uhr</div><div>Location: <b>Halle</b></div></div><div class='col-12 col-sm-8 col-md-9 col-lg-10 col-xl-10'>
+<div class='row'><div class='col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4'>
+<a href='programm/4099/' title='Schnellansicht' target='_modal_event'>
+<div class='relative'><div class='coverImage-sizer coverImage-sizer-16-9'>
+<div class='coverImage-sizer-inner'>
+<img title='Schnellansicht' alt='' class='object-fit-image' src='inhalte/mod_kalender/4099/bild/press-2024---1.jpg'>
+</div>
+</div>
+</div></div><div class='col-12 col-sm-12 col-md-6 col-lg-5 col-xl-5 mod_kalender_title_txt'>
+<h2>SELF DECEPTION // ANKOR</h2><div class='EventKurzinfo'><div><p>+ Special guest: Lauren Babic</p></div><div><p>EU/UK CO-HEADLINE TOUR 2026</p></div></div></div></a>
+<div class='col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 mod_kalender_buttons'>
+<div><a href='programm/4099/' target='_modal_event' class='btn btn-primary inline-block' role='button'>Mehr erfahren</a><a href='https://substage.reservix.de/p/reservix/event/2566772' target='_blank' class='btn btn-primary inverted inline-block' role='button'>Ticket kaufen</a></div></div></div></div></div></div><div class='mod_kalender_element_holder '><div class='row mod_kalender_element odo-reveal' data-threshold='15%'><div class='col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2 mod_kalender_date'>
+<div>Samstag</div><h2 class='mod_kalender_datum'>12.12.26</h2><div>Beginn: 21:00 Uhr</div><div>Einlass: 20:00 Uhr</div><div>Location: <b>Halle</b></div></div><div class='col-12 col-sm-8 col-md-9 col-lg-10 col-xl-10'>
+<div class='row'><div class='col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4'>
+<a href='programm/4025/' title='Schnellansicht' target='_modal_event'>
+<div class='relative'><div class='coverImage-sizer coverImage-sizer-16-9'>
+<div class='coverImage-sizer-inner'>
+<img title='Schnellansicht' alt='' class='object-fit-image' src='inhalte/mod_kalender/4025/bild/sb-live-cfrank-peter.jpg'>
+</div>
+</div>
+</div></div><div class='col-12 col-sm-12 col-md-6 col-lg-5 col-xl-5 mod_kalender_title_txt'>
+<h2>SMOKE BLOW</h2><div class='EventKurzinfo'><div><p>Final Hands 2026</p></div></div></div></a>
+<div class='col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 mod_kalender_buttons'>
+<div><a href='programm/4025/' target='_modal_event' class='btn btn-primary inline-block' role='button'>Mehr erfahren</a><a href='https://substage.reservix.de/p/reservix/event/2449156' target='_blank' class='btn btn-primary inverted inline-block' role='button'>Ticket kaufen</a></div></div></div></div></div></div><div class='mod_kalender_element_holder '><div class='row mod_kalender_element odo-reveal' data-threshold='15%'><div class='col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2 mod_kalender_date'>
+<div>Samstag</div><h2 class='mod_kalender_datum'>12.12.26</h2><div>Beginn: 20:00 Uhr</div><div>Einlass: 19:00 Uhr</div><div>Location: <b>Minestrone</b></div></div><div class='col-12 col-sm-8 col-md-9 col-lg-10 col-xl-10'>
+<div class='row'><div class='col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4'>
+<a href='programm/4331/' title='Schnellansicht' target='_modal_event'>
+<div class='relative'><div class='coverImage-sizer coverImage-sizer-16-9'>
+<div class='coverImage-sizer-inner'>
+<img title='Schnellansicht' alt='' class='object-fit-image' src='inhalte/mod_kalender/4331/bild/dif2026.jpg'>
+</div>
+</div>
+</div></div><div class='col-12 col-sm-12 col-md-6 col-lg-5 col-xl-5 mod_kalender_title_txt'>
+<h2>Karlsunruhe special: DIF - Deutsch-italienische Freundschaft</h2></div></a>
+<div class='col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 mod_kalender_buttons'>
+<div><a href='programm/4331/' target='_modal_event' class='btn btn-primary inline-block' role='button'>Mehr erfahren</a></div></div></div></div></div></div><div class='mod_kalender_element_holder '><div class='row mod_kalender_element odo-reveal' data-threshold='15%'><div class='col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2 mod_kalender_date'>
+<div>Freitag</div><h2 class='mod_kalender_datum'>18.12.26</h2><div>Beginn: 17:00 Uhr</div><div>Einlass: 16:00 Uhr</div><div>Location: <b>Halle</b></div></div><div class='col-12 col-sm-8 col-md-9 col-lg-10 col-xl-10'>
+<div class='row'><div class='col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4'>
+<a href='programm/4226/' title='Schnellansicht' target='_modal_event'>
+<div class='relative'><div class='coverImage-sizer coverImage-sizer-16-9'>
+<div class='coverImage-sizer-inner'>
+<img title='Schnellansicht' alt='' class='object-fit-image' src='inhalte/mod_kalender/4226/bild/dujb-pressefoto3-stadion-print-vertikal-jpg-lutz-westphal-kopie.jpg'>
+</div>
+</div>
+</div></div><div class='col-12 col-sm-12 col-md-6 col-lg-5 col-xl-5 mod_kalender_title_txt'>
+<h2>DENNIS & JESKO BAND</h2><div class='EventKurzinfo'><div><p>Kinderkonzert mit viel WUMMS f&uuml;r Gro&szlig; und Klein.</p></div></div></div></a>
+<div class='col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 mod_kalender_buttons'>
+<div><a href='programm/4226/' target='_modal_event' class='btn btn-primary inline-block' role='button'>Mehr erfahren</a><a href='https://substage.reservix.de/p/reservix/event/2547487' target='_blank' class='btn btn-primary inverted inline-block' role='button'>Ticket kaufen</a></div></div></div></div></div></div><div class='mod_kalender_element_holder '><div class='row mod_kalender_element odo-reveal' data-threshold='15%'><div class='col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2 mod_kalender_date'>
+<div>Sonntag</div><h2 class='mod_kalender_datum'>20.12.26</h2><div>Einlass: 18:00 Uhr</div><div>Location: <b>Halle</b></div></div><div class='col-12 col-sm-8 col-md-9 col-lg-10 col-xl-10'>
+<div class='row'><div class='col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4'>
+<a href='programm/4268/' title='Schnellansicht' target='_modal_event'>
+<div class='relative'><div class='coverImage-sizer coverImage-sizer-16-9'>
+<div class='coverImage-sizer-inner'>
+<img title='Schnellansicht' alt='' class='object-fit-image' src='inhalte/mod_kalender/4268/bild/design-ohne-titel.png'>
+</div>
+</div>
+</div></div><div class='col-12 col-sm-12 col-md-6 col-lg-5 col-xl-5 mod_kalender_title_txt'>
+<h2>MENTAL CRUELTY</h2><div class='EventKurzinfo'><div><p>Special Guests:&nbsp;Ov Sulfur, Extermination Dismemberment, Acranius</p></div><div><p>EUROPE 2026</p></div></div></div></a>
+<div class='col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 mod_kalender_buttons'>
+<div><a href='programm/4268/' target='_modal_event' class='btn btn-primary inline-block' role='button'>Mehr erfahren</a><a href='https://substage.reservix.de/p/reservix/event/2568353' target='_blank' class='btn btn-primary inverted inline-block' role='button'>Ticket kaufen</a></div></div></div></div></div></div><div class='mod_kalender_element_holder mon_spacer'><div class='mod_kalender_Mon_element'><h2>Januar </h2></div><div class='row mod_kalender_element odo-reveal' data-threshold='15%'><div class='col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2 mod_kalender_date'>
+<div>Freitag</div><h2 class='mod_kalender_datum'>08.01.27</h2><div>Beginn: 20:00 Uhr</div><div>Einlass: 19:00 Uhr</div><div>Location: <b>Halle</b></div></div><div class='col-12 col-sm-8 col-md-9 col-lg-10 col-xl-10'>
+<div class='row'><div class='col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4'>
+<a href='programm/4372/' title='Schnellansicht' target='_modal_event'>
+<div class='relative'><div class='coverImage-sizer coverImage-sizer-16-9'>
+<div class='coverImage-sizer-inner'>
+<img title='Schnellansicht' alt='' class='object-fit-image' src='inhalte/mod_kalender/4372/bild/ohne-logo.jpg'>
+</div>
+</div>
+</div></div><div class='col-12 col-sm-12 col-md-6 col-lg-5 col-xl-5 mod_kalender_title_txt'>
+<h2>LIVING THEORY - a tribute to LINKIN PARK</h2><div class='EventKurzinfo'><div><p>Tickets im VVK ab sofort via reservix.de &amp; eventim.de</p></div></div></div></a>
+<div class='col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 mod_kalender_buttons'>
+<div><a href='programm/4372/' target='_modal_event' class='btn btn-primary inline-block' role='button'>Mehr erfahren</a><a href='https://www.reservix.de/p/reservix/event/2582853' target='_blank' class='btn btn-primary inverted inline-block' role='button'>Ticket kaufen</a></div></div></div></div></div></div><div class='mod_kalender_element_holder '><div class='row mod_kalender_element odo-reveal' data-threshold='15%'><div class='col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2 mod_kalender_date'>
+<div>Freitag</div><h2 class='mod_kalender_datum'>22.01.27</h2><div>Beginn: 18:30 Uhr</div><div>Einlass: 17:30 Uhr</div><div>Location: <b>Halle</b></div></div><div class='col-12 col-sm-8 col-md-9 col-lg-10 col-xl-10'>
+<div class='row'><div class='col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4'>
+<a href='programm/4354/' title='Schnellansicht' target='_modal_event'>
+<div class='relative'><div class='soldout'>Abgesagt!</div><div class='coverImage-sizer coverImage-sizer-16-9'>
+<div class='coverImage-sizer-inner'>
+<img title='Schnellansicht' alt='' class='object-fit-image' src='inhalte/mod_kalender/4354/bild/spite-on-audiotree-live-@austinisaac-7518.jpg'>
+</div>
+</div>
+</div></div><div class='col-12 col-sm-12 col-md-6 col-lg-5 col-xl-5 mod_kalender_title_txt'>
+<h2>SPITE // EMMURE</h2><div class='EventKurzinfo'><div><p>European Co-Headline Tour</p></div></div></div></a>
+<div class='col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 mod_kalender_buttons'>
+<div><a href='programm/4354/' target='_modal_event' class='btn btn-primary inline-block' role='button'>Mehr erfahren</a><span class='btn btn-danger inline-block'>Abgesagt!</span></div></div></div></div></div></div><div class='mod_kalender_element_holder '><div class='row mod_kalender_element odo-reveal' data-threshold='15%'><div class='col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2 mod_kalender_date'>
+<div>Samstag</div><h2 class='mod_kalender_datum'>30.01.27</h2><div>Beginn: 20:00 Uhr</div><div>Einlass: 19:00 Uhr</div><div>Location: <b>Halle</b></div></div><div class='col-12 col-sm-8 col-md-9 col-lg-10 col-xl-10'>
+<div class='row'><div class='col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4'>
+<a href='programm/4244/' title='Schnellansicht' target='_modal_event'>
+<div class='relative'><div class='coverImage-sizer coverImage-sizer-16-9'>
+<div class='coverImage-sizer-inner'>
+<img title='Schnellansicht' alt='' class='object-fit-image' src='inhalte/mod_kalender/4244/bild/mytallica-press-2025-2026.jpg'>
+</div>
+</div>
+</div></div><div class='col-12 col-sm-12 col-md-6 col-lg-5 col-xl-5 mod_kalender_title_txt'>
+<h2>MYâTALLICA - a tribute to Metallica</h2></div></a>
+<div class='col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 mod_kalender_buttons'>
+<div><a href='programm/4244/' target='_modal_event' class='btn btn-primary inline-block' role='button'>Mehr erfahren</a><a href='https://substage.reservix.de/p/reservix/event/2546226' target='_blank' class='btn btn-primary inverted inline-block' role='button'>Ticket kaufen</a></div></div></div></div></div></div><div class='mod_kalender_element_holder mon_spacer'><div class='mod_kalender_Mon_element'><h2>Februar </h2></div><div class='row mod_kalender_element odo-reveal' data-threshold='15%'><div class='col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2 mod_kalender_date'>
+<div>Freitag</div><h2 class='mod_kalender_datum'>05.02.27</h2><div>Beginn: 20:00 Uhr</div><div>Einlass: 19:00 Uhr</div><div>Location: <b>Halle</b></div></div><div class='col-12 col-sm-8 col-md-9 col-lg-10 col-xl-10'>
+<div class='row'><div class='col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4'>
+<a href='programm/4373/' title='Schnellansicht' target='_modal_event'>
+<div class='relative'><div class='coverImage-sizer coverImage-sizer-16-9'>
+<div class='coverImage-sizer-inner'>
+<img title='Schnellansicht' alt='' class='object-fit-image' src='inhalte/mod_kalender/4373/bild/wishbone-ash-credit-bing-liem-kopie.jpg'>
+</div>
+</div>
+</div></div><div class='col-12 col-sm-12 col-md-6 col-lg-5 col-xl-5 mod_kalender_title_txt'>
+<h2>WISHBONE ASH</h2><div class='EventKurzinfo'><div><p>Road Warriors Tour</p></div></div></div></a>
+<div class='col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 mod_kalender_buttons'>
+<div><a href='programm/4373/' target='_modal_event' class='btn btn-primary inline-block' role='button'>Mehr erfahren</a><a href='https://substage.reservix.de/p/reservix/event/2586898' target='_blank' class='btn btn-primary inverted inline-block' role='button'>Ticket kaufen</a></div></div></div></div></div></div><div class='mod_kalender_element_holder '><div class='row mod_kalender_element odo-reveal' data-threshold='15%'><div class='col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2 mod_kalender_date'>
+<div>Samstag</div><h2 class='mod_kalender_datum'>06.02.27</h2><div>Beginn: 20:00 Uhr</div><div>Einlass: 19:00 Uhr</div><div>Location: <b>Halle</b></div></div><div class='col-12 col-sm-8 col-md-9 col-lg-10 col-xl-10'>
+<div class='row'><div class='col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4'>
+<a href='programm/4253/' title='Schnellansicht' target='_modal_event'>
+<div class='relative'><div class='coverImage-sizer coverImage-sizer-16-9'>
+<div class='coverImage-sizer-inner'>
+<img title='Schnellansicht' alt='' class='object-fit-image' src='inhalte/mod_kalender/4253/bild/photo-delain-marko.jpg'>
+</div>
+</div>
+</div></div><div class='col-12 col-sm-12 col-md-6 col-lg-5 col-xl-5 mod_kalender_title_txt'>
+<h2>DELAIN</h2><div class='EventKurzinfo'><div><p>Special guest:&nbsp;Infected Rain</p></div></div></div></a>
+<div class='col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 mod_kalender_buttons'>
+<div><a href='programm/4253/' target='_modal_event' class='btn btn-primary inline-block' role='button'>Mehr erfahren</a><a href='https://substage.reservix.de/p/reservix/event/2556633' target='_blank' class='btn btn-primary inverted inline-block' role='button'>Ticket kaufen</a></div></div></div></div></div></div><div class='mod_kalender_element_holder '><div class='row mod_kalender_element odo-reveal' data-threshold='15%'><div class='col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2 mod_kalender_date'>
+<div>Freitag</div><h2 class='mod_kalender_datum'>12.02.27</h2><div>Beginn: 20:00 Uhr</div><div>Einlass: 19:00 Uhr</div><div>Location: <b>Halle</b></div></div><div class='col-12 col-sm-8 col-md-9 col-lg-10 col-xl-10'>
+<div class='row'><div class='col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4'>
+<a href='programm/4329/' title='Schnellansicht' target='_modal_event'>
+<div class='relative'><div class='coverImage-sizer coverImage-sizer-16-9'>
+<div class='coverImage-sizer-inner'>
+<img title='Schnellansicht' alt='' class='object-fit-image' src='inhalte/mod_kalender/4329/bild/bandfoto-c--jessy.jpg'>
+</div>
+</div>
+</div></div><div class='col-12 col-sm-12 col-md-6 col-lg-5 col-xl-5 mod_kalender_title_txt'>
+<h2>THE BUSTERS</h2><div class='EventKurzinfo'><div><p>FETTE FIERZICH Tour</p></div></div></div></a>
+<div class='col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 mod_kalender_buttons'>
+<div><a href='programm/4329/' target='_modal_event' class='btn btn-primary inline-block' role='button'>Mehr erfahren</a><a href='https://www.reservix.de/p/reservix/event/2582536' target='_blank' class='btn btn-primary inverted inline-block' role='button'>Ticket kaufen</a></div></div></div></div></div></div><div class='mod_kalender_element_holder '><div class='row mod_kalender_element odo-reveal' data-threshold='15%'><div class='col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2 mod_kalender_date'>
+<div>Sonntag</div><h2 class='mod_kalender_datum'>14.02.27</h2><div>Beginn: 19:30 Uhr</div><div>Einlass: 18:30 Uhr</div><div>Location: <b>Halle</b></div></div><div class='col-12 col-sm-8 col-md-9 col-lg-10 col-xl-10'>
+<div class='row'><div class='col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4'>
+<a href='programm/4351/' title='Schnellansicht' target='_modal_event'>
+<div class='relative'><div class='coverImage-sizer coverImage-sizer-16-9'>
+<div class='coverImage-sizer-inner'>
+<img title='Schnellansicht' alt='' class='object-fit-image' src='inhalte/mod_kalender/4351/bild/tbdm-20220702-0008-highres-wide-1000x700-c22website.jpg'>
+</div>
+</div>
+</div></div><div class='col-12 col-sm-12 col-md-6 col-lg-5 col-xl-5 mod_kalender_title_txt'>
+<h2>THE BLACK DAHLIA MURDER</h2><div class='EventKurzinfo'></div></div></a>
+<div class='col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 mod_kalender_buttons'>
+<div><a href='programm/4351/' target='_modal_event' class='btn btn-primary inline-block' role='button'>Mehr erfahren</a><a href='https://substage.reservix.de/p/reservix/event/2582574' target='_blank' class='btn btn-primary inverted inline-block' role='button'>Ticket kaufen</a></div></div></div></div></div></div><div class='mod_kalender_element_holder mon_spacer'><div class='mod_kalender_Mon_element'><h2>MÃ¤rz </h2></div><div class='row mod_kalender_element odo-reveal' data-threshold='15%'><div class='col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2 mod_kalender_date'>
+<div>Freitag</div><h2 class='mod_kalender_datum'>05.03.27</h2><div>Beginn: 20:00 Uhr</div><div>Einlass: 19:00 Uhr</div><div>Location: <b>Halle</b></div></div><div class='col-12 col-sm-8 col-md-9 col-lg-10 col-xl-10'>
+<div class='row'><div class='col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4'>
+<a href='programm/4187/' title='Schnellansicht' target='_modal_event'>
+<div class='relative'><div class='coverImage-sizer coverImage-sizer-16-9'>
+<div class='coverImage-sizer-inner'>
+<img title='Schnellansicht' alt='' class='object-fit-image' src='inhalte/mod_kalender/4187/bild/copy-of-midge-ure-shooting-hamburg-2025-ctoddevision.jpg'>
+</div>
+</div>
+</div></div><div class='col-12 col-sm-12 col-md-6 col-lg-5 col-xl-5 mod_kalender_title_txt'>
+<h2>MIDGE URE & BAND ELECTRONICA</h2><div class='EventKurzinfo'><div><p>"The Classic Collection" - Tour 2027</p></div></div></div></a>
+<div class='col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 mod_kalender_buttons'>
+<div><a href='programm/4187/' target='_modal_event' class='btn btn-primary inline-block' role='button'>Mehr erfahren</a><a href='https://substage.reservix.de/p/reservix/event/2523877' target='_blank' class='btn btn-primary inverted inline-block' role='button'>Ticket kaufen</a></div></div></div></div></div></div><div class='mod_kalender_element_holder mon_spacer'><div class='mod_kalender_Mon_element'><h2>April </h2></div><div class='row mod_kalender_element odo-reveal' data-threshold='15%'><div class='col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2 mod_kalender_date'>
+<div>Freitag</div><h2 class='mod_kalender_datum'>09.04.27</h2><div>Beginn: 17:30 Uhr</div><div>Einlass: 16:30 Uhr</div><div>Location: <b>Halle</b></div></div><div class='col-12 col-sm-8 col-md-9 col-lg-10 col-xl-10'>
+<div class='row'><div class='col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4'>
+<a href='programm/4308/' title='Schnellansicht' target='_modal_event'>
+<div class='relative'><div class='coverImage-sizer coverImage-sizer-16-9'>
+<div class='coverImage-sizer-inner'>
+<img title='Schnellansicht' alt='' class='object-fit-image' src='inhalte/mod_kalender/4308/bild/hs-presse-c-franz-schepers-kopie.jpg'>
+</div>
+</div>
+</div></div><div class='col-12 col-sm-12 col-md-6 col-lg-5 col-xl-5 mod_kalender_title_txt'>
+<h2>HEAVYSAURUS</h2><div class='EventKurzinfo'><div><p>Mission Dino Power Tour 2027</p></div><div><p>Exklusiver VVK via <a href="https://www.eventim.de/">Eventim.de</a> am Freitag, 31.07. ab 16:00 Uhr</p></div></div></div></a>
+<div class='col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 mod_kalender_buttons'>
+<div><a href='programm/4308/' target='_modal_event' class='btn btn-primary inline-block' role='button'>Mehr erfahren</a><a href='https://substage.reservix.de/p/reservix/event/2594111' target='_blank' class='btn btn-primary inverted inline-block' role='button'>Ticket kaufen</a></div></div></div></div></div></div><div class='mod_kalender_element_holder '><div class='row mod_kalender_element odo-reveal' data-threshold='15%'><div class='col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2 mod_kalender_date'>
+<div>Mittwoch</div><h2 class='mod_kalender_datum'>14.04.27</h2><div>Beginn: 20:00 Uhr</div><div>Einlass: 19:00 Uhr</div><div>Location: <b>Halle</b></div></div><div class='col-12 col-sm-8 col-md-9 col-lg-10 col-xl-10'>
+<div class='row'><div class='col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4'>
+<a href='programm/4086/' title='Schnellansicht' target='_modal_event'>
+<div class='relative'><div class='coverImage-sizer coverImage-sizer-16-9'>
+<div class='coverImage-sizer-inner'>
+<img title='Schnellansicht' alt='' class='object-fit-image' src='inhalte/mod_kalender/4086/bild/elaekelaeiset-c-timo-isoaho.jpg'>
+</div>
+</div>
+</div></div><div class='col-12 col-sm-12 col-md-6 col-lg-5 col-xl-5 mod_kalender_title_txt'>
+<h2>ELÃKELÃISET</h2><div class='EventKurzinfo'><div><p>Der Humppagenerator 2027</p></div></div></div></a>
+<div class='col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 mod_kalender_buttons'>
+<div><a href='programm/4086/' target='_modal_event' class='btn btn-primary inline-block' role='button'>Mehr erfahren</a><a href='https://www.reservix.de/p/reservix/event/2576103' target='_blank' class='btn btn-primary inverted inline-block' role='button'>Ticket kaufen</a></div></div></div></div></div></div><div class='mod_kalender_element_holder '><div class='row mod_kalender_element odo-reveal' data-threshold='15%'><div class='col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2 mod_kalender_date'>
+<div>Freitag</div><h2 class='mod_kalender_datum'>16.04.27</h2><div>Beginn: 20:00 Uhr</div><div>Einlass: 18:00 Uhr</div><div>Location: <b>Halle</b></div></div><div class='col-12 col-sm-8 col-md-9 col-lg-10 col-xl-10'>
+<div class='row'><div class='col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4'>
+<a href='programm/4272/' title='Schnellansicht' target='_modal_event'>
+<div class='relative'><div class='coverImage-sizer coverImage-sizer-16-9'>
+<div class='coverImage-sizer-inner'>
+<img title='Schnellansicht' alt='' class='object-fit-image' src='inhalte/mod_kalender/4272/bild/die-happy-2027-c-mathiasbothor.jpeg'>
+</div>
+</div>
+</div></div><div class='col-12 col-sm-12 col-md-6 col-lg-5 col-xl-5 mod_kalender_title_txt'>
+<h2>DIE HAPPY</h2><div class='EventKurzinfo'><div><p>Exklusiver VVK via <a href="https://www.eventim.de/" target="_blank" rel="noopener noreferrer">Eventim.de</a> ab Donnerstag, 30.07.&nbsp;</p>
+<p></p></div></div></div></a>
+<div class='col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 mod_kalender_buttons'>
+<div><a href='programm/4272/' target='_modal_event' class='btn btn-primary inline-block' role='button'>Mehr erfahren</a><a href='https://substage.reservix.de/p/reservix/event/2591278' target='_blank' class='btn btn-primary inverted inline-block' role='button'>Ticket kaufen</a></div></div></div></div></div></div><div class='mod_kalender_element_holder mon_spacer'><div class='mod_kalender_Mon_element'><h2>September </h2></div><div class='row mod_kalender_element odo-reveal' data-threshold='15%'><div class='col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2 mod_kalender_date'>
+<div>Donnerstag</div><h2 class='mod_kalender_datum'>30.09.27</h2><div>Beginn: 20:00 Uhr</div><div>Einlass: 19:00 Uhr</div><div>Location: <b>Halle</b></div></div><div class='col-12 col-sm-8 col-md-9 col-lg-10 col-xl-10'>
+<div class='row'><div class='col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4'>
+<a href='programm/4300/' title='Schnellansicht' target='_modal_event'>
+<div class='relative'><div class='coverImage-sizer coverImage-sizer-16-9'>
+<div class='coverImage-sizer-inner'>
+<img title='Schnellansicht' alt='' class='object-fit-image' src='inhalte/mod_kalender/4300/bild/sts-alex-schlesier--skulls-n-gears-kopie.jpg'>
+</div>
+</div>
+</div></div><div class='col-12 col-sm-12 col-md-6 col-lg-5 col-xl-5 mod_kalender_title_txt'>
+<h2>SUBWAY TO SALLY</h2><div class='EventKurzinfo'><div><p>Nackt lll &ndash; Das Finale</p></div></div></div></a>
+<div class='col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 mod_kalender_buttons'>
+<div><a href='programm/4300/' target='_modal_event' class='btn btn-primary inline-block' role='button'>Mehr erfahren</a><a href='https://substage.reservix.de/p/reservix/event/2570394' target='_blank' class='btn btn-primary inverted inline-block' role='button'>Ticket kaufen</a></div></div></div></div></div></div>
+
+

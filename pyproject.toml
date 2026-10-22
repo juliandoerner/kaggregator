@@ -1,0 +1,49 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ka-events"
+version = "1.0.0"
+description = "Event aggregator for Karlsruhe - scraper service and plain-HTML web service"
+requires-python = ">=3.11"
+dependencies = [
+    # Scraping
+    "requests==2.31.0",
+    "beautifulsoup4==4.12.2",
+    "lxml>=5.0.0",
+    "apscheduler==3.10.4",
+    "pytz==2026.2",
+    # Configuration
+    "PyYAML>=6.0",
+    # Web
+    "Flask==3.0.0",
+    "gunicorn==21.2.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest==7.4.3",
+    "black==23.12.1",
+    "flake8==7.0.0",
+]
+
+[project.scripts]
+ka-events-scraper = "ka_events.scraper_main:main"
+
+[tool.setuptools.packages.find]
+include = ["ka_events*"]
+
+[tool.setuptools.package-data]
+"ka_events.web" = ["templates/*.html", "static/*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
+addopts = "-v --tb=short"
+filterwarnings = [
+    "ignore::DeprecationWarning",
+    "ignore::PendingDeprecationWarning",
+]

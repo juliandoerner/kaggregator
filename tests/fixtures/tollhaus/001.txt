@@ -1,0 +1,597 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<!-- Head -->
+
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Tollhaus - Startseite</title>
+<meta name="description" content="Tollhaus">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://www.tollhaus.de/">
+<link rel="alternate" hreflang="de" href="https://www.tollhaus.de/">
+<meta property="og:title" content="Tollhaus - Startseite">
+<meta property="og:type" content="website">
+<meta property="og:description" content="Tollhaus">
+<meta property="og:url" content="https://www.tollhaus.de/">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Tollhaus - Startseite">
+<meta name="twitter:description" content="Tollhaus">
+<meta name="twitter:url" content="https://www.tollhaus.de/">
+<!-- Position Verortung -->
+<meta name="geo.region" content="DE-BW"/>
+<meta name="geo.placename" content="Alter Schlachthof 35, 76131 Karlsruhe" />
+<meta name="geo.position" content="49.00459253, 8.43166240" />
+<meta name="ICBM" content="49.00459253, 8.43166240" />
+<!-- Position Verortung ENDE -->
+
+<!-- Mobile Address Bar Color -->
+<meta name="theme-color" content="black">
+<meta name="msapplication-navbutton-color" content="black">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<!-- Mobile Address Bar Color ENDE -->
+    
+<!-- CSS -->
+<link rel="stylesheet" href="/resources/css/datepicker.min.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/resources/css/virtual-select.min.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/resources/css/splide-core.min.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/resources/css/glightbox.min.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/resources/css/core.css" type="text/css" media="all" />
+<link rel="stylesheet" fetchpriority="high" href="/resources/css/style.css" type="text/css" media="all" />
+<link rel="stylesheet" href="/resources/css/tollhaus-widget.css" type="text/css" media="all" />
+<link rel="stylesheet" href="/assets/addons/emailobfuscator/emailobfuscator.css" type="text/css" media="all" />
+<!-- CSS ENDE -->
+
+<!-- favicons -->
+<link rel="icon" type="image/png" href="/resources/favicon/tollhaus/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/svg+xml" href="/resources/favicon/tollhaus/favicon.svg" />
+<link rel="shortcut icon" href="/resources/favicon/tollhaus/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="/resources/favicon/tollhaus/apple-touch-icon.png" />
+<meta name="apple-mobile-web-app-title" content="TOLLHAUS" />
+<link rel="manifest" href="/resources/favicon/tollhaus/site.webmanifest" />
+<!-- favicons Ende --> 
+
+<!-- prefetch -->
+<link rel="dns-prefetch" href="//www.tollhaus.de">
+<link rel="preconnect" href="https://www.atoll-festival.de/" crossorigin>
+<link rel="preconnect" href="https://www.zeltival.de/" crossorigin>
+<link rel="preconnect" href="https://tickets.tollhaus.de/" crossorigin>
+<!-- prefetch Ende -->
+
+
+<body class="tollhaus bg-white">
+    
+<!-- Header&Nav -->
+
+
+<header>
+    <nav class="nav-site"><div class="content-width flex"><a class="flex-center active" href="https://www.tollhaus.de/">Tollhaus</a><a class="flex-center " href="https://www.atoll-festival.de/">Atoll</a><a class="flex-center " href="https://www.zeltival.de/">Zeltival</a><div class="socials-container"><a href="https://www.facebook.com/tollhauskarlsruhe" target="_blank" rel="noopener"><span class="icon icon-facebook full-space"></span></a><a href="https://www.instagram.com/tollhauskarlsruhe/?hl=de" target="_blank" rel="noopener"><span class="icon icon-instagram full-space"></span></a><a href="https://www.youtube.com/@tollhauskarlsruhe8104" target="_blank" rel="noopener"><span class="icon icon-youtube full-space"></span></a></div></div></nav>    
+    
+    <nav class="nav-upper">
+        <div class="content-width flex-end-x flex-center-y">
+            <div class="upper-links"><a class="" href="/newsletter/">Newsletter</a><a class="" href="/mediathek/">Mediathek</a><a class="" href="/netzwerk/">Netzwerk</a><a class="" href="/kontakt/">Kontakt</a><a class="" href="/jobs/">Jobs</a></div><form class="nav-search-form" action="/suche/" method="get">
+                <input type="text" name="search" value="" placeholder="Suchbegriff eingeben">
+                <button type="submit"><span class="full-space icon icon-lens"></span></button>
+            </form>        </div>
+    </nav>
+    
+    <nav class="nav-main">
+        <div class="content-width flex flex-y-center">
+            <a class="logo" href="/"><img src="/media/logo_tollhaus_schwarz.svg" decoding="async" alt="Logo"></a>
+            <div class="main-links"><a href = https://tickets.tollhaus.de/home>Programm</a><div class="nav-dropdown "><button class="btn-dropdown">Über uns</button><div class="nav-sub"><a class="" href="/ueber-uns/das-tollhaus/">Das TOLLHAUS</a><a class="" href="/ueber-uns/nachhaltigkeit/">Nachhaltigkeit</a><a class="" href="/ueber-uns/awareness/">Awareness</a><a class="" href="/ueber-uns/team/">Team</a><a class="" href="/ueber-uns/tollhaus-club/">TOLLHAUS-Club</a></div></div><div class="nav-dropdown "><button class="btn-dropdown">Service</button><div class="nav-sub"><a class="" href="/service/gastronomie/">Gastronomie</a><a class="" href="/service/presse/">Presse</a><a class="" href="/service/mediadaten/">Mediadaten</a><a class="" href="/service/vermietung-firmen/">Vermietung/Firmen</a><a class="" href="/service/lastenrad/">Lastenrad</a></div></div><a href="/faq/">FAQ</a></div>            
+            <div class="mobile lang-search flex-center">
+                <a href="/suche/" class="search" aria-label="search/suchen">
+                        <span class="full-space icon icon-lens"></span>
+                     </a>                <button class="burger flex-col flex-space-between" aria-label="toggle navigation"></button>
+            </div>
+        </div>
+    </nav>
+    
+    <nav class="nav-mobile flex-col">
+        <div class="content-width">
+            <div class="main-links"><a href = https://tickets.tollhaus.de/home>Programm</a><div class="nav-dropdown "><button class="btn-dropdown">Über uns</button><div class="nav-sub"><a class="" href="/ueber-uns/das-tollhaus/">Das TOLLHAUS</a><a class="" href="/ueber-uns/nachhaltigkeit/">Nachhaltigkeit</a><a class="" href="/ueber-uns/awareness/">Awareness</a><a class="" href="/ueber-uns/team/">Team</a><a class="" href="/ueber-uns/tollhaus-club/">TOLLHAUS-Club</a></div></div><div class="nav-dropdown "><button class="btn-dropdown">Service</button><div class="nav-sub"><a class="" href="/service/gastronomie/">Gastronomie</a><a class="" href="/service/presse/">Presse</a><a class="" href="/service/mediadaten/">Mediadaten</a><a class="" href="/service/vermietung-firmen/">Vermietung/Firmen</a><a class="" href="/service/lastenrad/">Lastenrad</a></div></div><a href="/faq/">FAQ</a></div>        </div>
+        <div class="content-width bg-dark bot-links">
+            <div class="flex-wrap">
+                <a class="" href="/newsletter/">Newsletter</a><a class="" href="/mediathek/">Mediathek</a><a class="" href="/netzwerk/">Netzwerk</a><a class="" href="/kontakt/">Kontakt</a><a class="" href="/jobs/">Jobs</a>            </div>
+            <div class="socials-container"><a href="https://www.facebook.com/tollhauskarlsruhe" target="_blank" rel="noopener"><span class="icon icon-facebook full-space"></span></a><a href="https://www.instagram.com/tollhauskarlsruhe/?hl=de" target="_blank" rel="noopener"><span class="icon icon-instagram full-space"></span></a><a href="https://www.youtube.com/@tollhauskarlsruhe8104" target="_blank" rel="noopener"><span class="icon icon-youtube full-space"></span></a></div>        </div>
+    </nav>
+</header>
+
+<!-- Content -->
+<main>
+
+
+<section class=" slider-header" data-dh-class="dh-transparent">
+    <div class="content-width--full">
+        <div class="splide" role="group" aria-label="header slider">
+            <div class="splide__track">
+                <ul class="splide__list">
+                    <li class="splide__slide isolate clr-white" data-color="clr-white"><div class="gradient-overlay"></div><img class="full-space img-cover img-pos-variable" style="--pos-y:50%;" src="/media/2560px-breit/20260806_stuzzi_pressbilder_2025_gambia_20_ausschnitt.jpg?buster=1785929720" decoding="async" alt="20260806_stuzzi_pressbilder_2025_gambia_20_ausschnitt.jpg"><div class="content-width flex-col flex-x-end"><img class="slider-logo" src="/media/logo_zeltival_festival.svg" alt="logo_zeltival_festival.svg"><div class="txt-container txt-width"><h4>Sommerfestival Kulturzentrum TOLLHAUS – 26.06. bis 09.08.2026</h4><h1>STUZZI</h1>
+<p>Das Konzert muss leider aus gesundheitlichen Gründen abgesagt werden. Bereits gekaufte Karten können entweder für eins der anderen ZELTIVAL TOP 15-Konzerte (07.08. Chocolate Remix, 08.08. Omar Dahl und 09.08. Carmauru) genutzt, oder dort wo sie gekauft wurden zurückgegeben werden.</p></div></div></li><li class="splide__slide isolate clr-white" data-color="clr-white"><div class="gradient-overlay"></div><img class="full-space img-cover img-pos-variable" style="--pos-y:50%;" src="/media/2560px-breit/20260807_z26_chocolate-remix_header.jpg?buster=1783587274" decoding="async" alt="20260807_z26_chocolate-remix_header.jpg"><div class="content-width flex-col flex-x-end"><img class="slider-logo" src="/media/logo_zeltival_festival.svg" alt="logo_zeltival_festival.svg"><div class="txt-container txt-width"><h4>Sommerfestival Kulturzentrum TOLLHAUS – 26.06. bis 09.08.2026</h4><h1>CHOCOLATE REMIX<br></h1>
+<h4>Freitag, 07.08.2026 – ZELTIVAL TOP 15</h4></div><a class="link-dot-arrow" href="https://tickets.tollhaus.de/catalog/tickets/90347-tickets-chocolate-remix-zeltival-kulturzentrum-tollhaus-karlsruhe-am-07-08-2026" rel="noopener" target="_blank">Infos & Tickets<span class="dot"></span><span class="icon icon-arrow"></span></a></div></li><li class="splide__slide isolate clr-white" data-color="clr-white"><div class="gradient-overlay"></div><img class="full-space img-cover img-pos-variable" style="--pos-y:25%;" src="/media/2560px-breit/20260808_z26_omar-dahl_header.jpg?buster=1785312265" decoding="async" alt="20260808_z26_omar-dahl_header.jpg"><div class="content-width flex-col flex-x-end"><img class="slider-logo" src="/media/logo_zeltival_festival.svg" alt="logo_zeltival_festival.svg"><div class="txt-container txt-width"><h4>Sommerfestival Kulturzentrum TOLLHAUS – 26.06. bis 09.08.2026</h4><h1>OMAR DAHL<br></h1>
+<h4>Samstag, 08.08.2026 – ZELTIVAL TOP 15</h4></div><a class="link-dot-arrow" href="https://tickets.tollhaus.de/catalog/tickets/90348-tickets-omar-dahl-zeltival-kulturzentrum-tollhaus-karlsruhe-am-08-08-2026" rel="noopener" target="_blank">Infos & Tickets<span class="dot"></span><span class="icon icon-arrow"></span></a></div></li><li class="splide__slide isolate clr-white" data-color="clr-white"><div class="gradient-overlay"></div><img class="full-space img-cover img-pos-variable" style="--pos-y:50%;" src="/media/2560px-breit/20260809_z26_caramuru_header_neu.jpg?buster=1784631320" decoding="async" alt="20260809_z26_caramuru_header_neu.jpg"><div class="content-width flex-col flex-x-end"><img class="slider-logo" src="/media/logo_zeltival_festival.svg" alt="logo_zeltival_festival.svg"><div class="txt-container txt-width"><h4>Sommerfestival Kulturzentrum TOLLHAUS – 26.06. bis 09.08.2026</h4><h1>CARAMURU<br></h1>
+<h4>Sonntag, 09.08.2026 – ZELTIVAL TOP 15 – Albumrelease</h4></div><a class="link-dot-arrow" href="https://tickets.tollhaus.de/catalog/tickets/92569-tickets-caramuru-zeltival-kulturzentrum-tollhaus-karlsruhe-am-09-08-2026" rel="noopener" target="_blank">Infos & Tickets<span class="dot"></span><span class="icon icon-arrow"></span></a></div></li><li class="splide__slide isolate clr-white" data-color="clr-white"><div class="gradient-overlay"></div><img class="full-space img-cover img-pos-variable" style="--pos-y:50%;" src="/media/2560px-breit/20260712_strangeplace_1.jpg?buster=1783326224" decoding="async" alt="20260712_strangeplace_1.jpg"><div class="content-width flex-col flex-x-end"><div class="txt-container txt-width"><h1>IN A STRANGE PLACE</h1>
+<h2>Ausstellung</h2>
+<h4>Ausstellungszeitraum: 12.07. bis&nbsp;09.08.2026</h4></div></div></li>                </ul>
+            </div>
+        </div>
+    </div>
+</section>    <section class="program program-overview section-padding-top">
+        <div class="content-width">
+            <div id="alle-events-container" class="tollhaus-widget"></div>
+        </div>
+    </section>
+
+ <script src="/resources/js/tollhaus-widget.js"></script>
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+
+        TollhausWidget.init({
+            apiUrl: '/assets/addons/project/tollhaus-widget.php',
+            containerId: 'alle-events-container',
+            category: 'alle',
+            limit: 40
+        });
+
+    });
+    </script>
+<section class=" txt-media-cols-modul">
+    <div class="content-width--small grid-default">
+        <div class="left "><div class="content-container"><div class="media-container"><img src="/media/webseite_zeltival-2026-725x550.jpg" alt="webseite_zeltival-2026-725x550.jpg"></div><div class="txt-link-container"><div class="txt-container"><h3>ZELTIVAL 2026<br></h3>
+<h4><strong>Das Sommerfestival vom 26.06.–09.08. </strong></h4>
+<p>Infos zu allen auftretenden Bands und Künstler:innen, sowie natürlich die Möglichkeit, Tickets zu kaufen, findest du auf der ZELTIVAL-Webseite. Schnell sein lohnt sich – ein paar Konzerte sind schon ausverkauft!</p></div><a class="link-dot-arrow" href="https://www.zeltival.de" rel="noopener" target="_blank">www.zeltival.de<span class="dot"></span><span class="icon icon-arrow"></span></a></div></div></div><div class="right swap-responsive"><div class="content-container"><div class="media-container"><img src="/media/webseite_in-a-strange-place_725x550_1.jpg" alt="webseite_in-a-strange-place_725x550_1.jpg"></div><div class="txt-container"><h3>"IN A STRANGE PLACE"</h3>
+<h4><strong>Ausstellung</strong></h4>
+<p><strong>12.07.–09.08.2026</strong></p>
+<p>Das kanadische Künstler:innen-Duo Mia & Eric begleitete Förster:innen, Aktivist:innen, Landverwalter:innen und Hüter:innen von Waldgebieten in Deutschland, Norwegen, England und Kanada mit der Kamera bei ihrer Arbeit. Maskiert als imaginierte Wesen eines zukünftigen Waldes führen diese vor der Kamera ihre Tätigkeiten aus.&nbsp;<br></p>
+<p>Eintritt frei<br>Besuchbar mit einen ZELTIVAL-Ticket während der ZELTIVAL-Konzerte oder auf Anfrage.<br></p>
+<p>Unterstützt durch die Stadt Karlsruhe.</p>
+</div></div></div>    </div>
+</section>
+<section class="section-padding-bot txt-media-modul">
+    <div class="content-width grid-default">
+        <div class="media-container grid__item--l"><img class="" src="/media/260218_tollhaus_atoll_logo_2026_weiss_420mm_1.jpg" alt="260218_tollhaus_atoll_logo_2026_weiss_420mm_1.jpg"></div>        <div class="content-container  grid__item--r"><div class="txt-container"><h3>11. ATOLL Festival für zeitgenössischen Zirkus</h3>
+<h3>17.–27.09.2026</h3>
+<h4>Der Vorverkauf hat begonnen!<br></h4>
+<p>Infos zu allen Stücken sowie natürlich die Möglichkeit zum Ticketkauf&nbsp;findest du auf der ATOLL-Webseite.</p></div><div class="flex-wrap buttonlist"><a class="link-dot-arrow" href="https://www.atoll-festival.de" rel="noopener" target="_blank">www.atoll-festival.de<span class="dot"></span><span class="icon icon-arrow"></span></a></div></div>    </div>
+</section>
+<section class="section-padding-bot text-ticket-modul">
+    <div class="content-width ">
+            <img class="ticket-shape--top" src="/media/ticket-top.svg" decoding="async" aria-hidden="true">
+        <div class="content-container">
+            <div class="txt-width txt-center mx-center">
+                <div class="txt-container"><h2>TOLLHAUS <a href="https://tickets.tollhaus.de/produkte/68023-gutschein" target="_blank">GUTSCHEINE</a></h2></div>                <div class="link-container margin-gap "><a class="link-dot-arrow" href="https://tickets.tollhaus.de/produkte/68023-gutschein" rel="noopener" target="_blank">Bequem hier erwerben!<span class="dot"></span><span class="icon icon-arrow"></span></a></div>            </div>
+        </div>
+            <img class="ticket-shape--bot" src="/media/ticket-bot.svg" decoding="async" aria-hidden="true">
+    </div>
+</section><!--    KINDER UND FAMILIE    -->
+
+    <section class="program program-overview section-padding-top">
+        <div class="content-width">
+           <div id="kinder-und-familie" class="tollhaus-widget"></div>           
+        </div>
+    </section>
+
+ <script src="/resources/js/tollhaus-widget.js"></script>
+
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+		
+		// Widget mit 16 Events
+        TollhausWidget.init({
+            apiUrl: '/assets/addons/project/tollhaus-widget.php',
+            containerId: 'kinder-und-familie',
+            category: 'kinder-und-familie',
+	    limit: 16
+        }); 
+
+    });
+    </script>	
+<section class="section-padding-block x3-img-txt-modul">
+    <div class="content-width--small grid-default">
+        <div class="item-container grid__item--l"><img src="/media/725px-breit/20260913_bullatscheksybille_copyrightstefanmager_1202x903.jpg?buster=1780293564" decoding="async" alt="20260913_bullatscheksybille_copyrightstefanmager_1202x903.jpg"><div class="txt-container"><h2>Kabarett & Comedy</h2></div><div class="flex-col"><a href="https://tickets.tollhaus.de/catalog/tickets/92744-tickets-sybille-bullatschek-kulturzentrum-tollhaus-karlsruhe-am-13-09-2026" rel="noopener" target="_blank"><span class="link-dot-arrow">13.09.2026 // SYBILLE BULLATSCHEK<span class="dot"></span><span class="icon icon-arrow"></span></span></a><a href="https://tickets.tollhaus.de/catalog/tickets/87170-tickets-moritz-neumeier-kulturzentrum-tollhaus-karlsruhe-am-03-10-2026" rel="noopener" target="_blank"><span class="link-dot-arrow">03.10.2026 // MORITZ NEUMEIER – AUSVERKAUFT<span class="dot"></span><span class="icon icon-arrow"></span></span></a><a href="https://tickets.tollhaus.de/catalog/tickets/92835-tickets-chaostheater-oropax-kulturzentrum-tollhaus-karlsruhe-am-09-10-2026" rel="noopener" target="_blank"><span class="link-dot-arrow">09.10.2026 // CHAOSTHEATER OROPAX<span class="dot"></span><span class="icon icon-arrow"></span></span></a><a href="https://tickets.tollhaus.de/catalog/tickets/92327-tickets-nightwash-live-kulturzentrum-tollhaus-karlsruhe-am-10-10-2026" rel="noopener" target="_blank"><span class="link-dot-arrow">10.10.2026 // NIGHTWASH LIVE<span class="dot"></span><span class="icon icon-arrow"></span></span></a><a href="https://tickets.tollhaus.de/catalog/tickets/93390-tickets-pigor-singt-benedikt-eichhorn-muss-begleiten-kulturzentrum-tollhaus-karlsruhe-am-10-10-2026" rel="noopener" target="_blank"><span class="link-dot-arrow">10.10.2026 // PIGOR SINGT. BENEDIKT EICHHORN MUSS BEGLEITEN<span class="dot"></span><span class="icon icon-arrow"></span></span></a></div></div><div class="item-container grid__item--r row-2"><img src="/media/725px-breit/20261003_fuchsthone_orchestra-by_volker_beushausen_2_1202x802.jpg?buster=1785737533" decoding="async" alt="20261003_fuchsthone_orchestra-by_volker_beushausen_2_1202x802.jpg"><div class="txt-container"><h2>Konzert</h2></div><div class="flex-col"><a href="https://vvk.link/4bqtjyx" rel="noopener" target="_blank"><span class="link-dot-arrow">06.08.2026 // ZELTIVAL: STUZZI<span class="dot"></span><span class="icon icon-arrow"></span></span></a><a href="https://tickets.tollhaus.de/catalog/tickets/90347-tickets-chocolate-remix-zeltival-kulturzentrum-tollhaus-karlsruhe-am-07-08-2026" rel="noopener" target="_blank"><span class="link-dot-arrow">07.08.2026 // ZELTIVAL: CHOCOLATE REMIX <span class="dot"></span><span class="icon icon-arrow"></span></span></a><a href="https://tickets.tollhaus.de/catalog/tickets/90348-tickets-omar-dahl-zeltival-kulturzentrum-tollhaus-karlsruhe-am-08-08-2026" rel="noopener" target="_blank"><span class="link-dot-arrow">08.08.2026 // ZELTIVAL: OMAR DAHL <span class="dot"></span><span class="icon icon-arrow"></span></span></a><a href="https://tickets.tollhaus.de/catalog/tickets/94195-tickets-fuchsthone-orchestra-feat-evi-filippou-kulturzentrum-tollhaus-karlsruhe-am-03-10-2026" rel="noopener" target="_blank"><span class="link-dot-arrow">03.10.2026 // FUCHSTHONE ORCHESTRA feat. EVI FILIPPOU<span class="dot"></span><span class="icon icon-arrow"></span></span></a><a href="https://tickets.tollhaus.de/catalog/tickets/92738-tickets-svavar-knutur-kulturzentrum-tollhaus-karlsruhe-am-04-10-2026" rel="noopener" target="_blank"><span class="link-dot-arrow">04.10.2026 // SVAVAR KNÙTUR<span class="dot"></span><span class="icon icon-arrow"></span></span></a></div></div><div class="item-container grid__item--l item-small"><div class="flex-col"></div></div>    </div>
+</section><!--    NEU IM PROGRAMM    -->
+    <section class="program program-overview">
+        <div class="content-width">
+           <div id="recommended-verfügbar" class="tollhaus-widget"></div>           
+        </div>
+    </section>
+
+ <script src="/resources/js/tollhaus-widget.js"></script>
+
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+		
+		// Widget mit 16 Events
+        TollhausWidget.init({
+            apiUrl: '/assets/addons/project/tollhaus-widget.php',
+            containerId: 'recommended-verfügbar',
+            category: 'recommended-verfügbar',
+	    limit: 16
+        }); 
+
+    });
+    </script>	
+<section class="section-padding-block text-ticket-modul">
+    <div class="content-width ">
+            <img class="ticket-shape--top" src="/media/ticket-top.svg" decoding="async" aria-hidden="true">
+        <div class="content-container">
+            <div class="txt-width txt-center mx-center">
+                <div class="txt-container"><h2>Jetzt spenden</h2>
+<h3>Das TOLLHAUS freut sich über jede Spende</h3>
+<p>auf das Konto der Stadt Karlsruhe bei der Sparkasse Karlsruhe:<br>DE66 6605 0101 0009 0009 69 <br>Verwendungszweck: 5.7440.000788.4 - Tollhaus Kultur</p>
+<p>Bitte komplette Adresse für die Spendenbescheinigung angeben.</p>
+<p><strong>Spenden kann man auch ganz einfach über PayPal oder Kreditkarte</strong></p></div>                <div class="link-container margin-gap "><a class="link-dot-arrow" href="https://www.paypal.com/donate/?hosted_button_id=57UFR5S4S5CNW" rel="noopener" target="_blank">jetzt spenden<span class="dot"></span><span class="icon icon-arrow"></span></a></div>            </div>
+        </div>
+            <img class="ticket-shape--bot" src="/media/ticket-bot.svg" decoding="async" aria-hidden="true">
+    </div>
+</section>
+<section class="section-padding-bot slider-img-link slider-full-width">
+    <div class="content-width">
+        <div class="splide" role="group" aria-label="image slider">
+            
+            <div class="top-container flex-y-center flex-space-between flex-wrap">
+                                <div class="splide__arrows">
+                    <button class="splide__arrow splide__arrow--prev" aria-label="previous slide"><span class="full-space icon icon-arrow"></span></button>
+                    <button class="splide__arrow splide__arrow--next" aria-label="next slide"><span class="full-space icon icon-arrow"></span></button>
+                </div>
+            </div>
+            
+            <div class="splide__track">
+                <ul class="splide__list">
+                    <li class="splide__slide aspect-ratio isolate"><a class="full-space" href="https://lastenkarle.de/cb_item/elastenkarle-alter-schlachthof?cb-location=21775" rel="noopener" target="_blank"><img class="img-fit full-space" data-splide-lazy="/media/520x390px/elastenrad_teaser.jpg?buster=1764695249" alt="elastenrad_teaser.jpg"><div class="content-container clr-white full-space flex-col flex-x-end"><p>Umweltfreundlich mobil sein</p><h3> Lastenrad-Service</h3><span class="link-dot-arrow">Lastenrad buchen<span class="dot"></span><span class="icon icon-arrow"></span></span></div></a></li>                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="section-padding-bot text-modul">
+    <div class="content-width--small">
+        <div class="content-container txt-width ">
+        <div class="txt-container"><h2>TOLLHAUS zeigt Solidarität</h2>
+<p><strong>Als soziokulturelles Zentrum vertritt das TOLLHAUS eine klare gesellschaftspolitische Haltung.</strong>&nbsp;</p>
+<p>Wir setzen uns für freie, offene und demokratische Gesellschaften ein und stehen für Frieden, Menschenrechte und ein respektvolles Zusammenleben.</p>
+<p>Die Würde und Rechte aller Menschen, unabhängig von Herkunft, Religion, Geschlecht, sexueller Orientierung oder sozialem Status, sind für uns unantastbar. Daher beobachten wir mit großer Sorge, wie Menschen weltweit unter Krieg, Terror, Repression und politischer Verfolgung leiden.</p>
+<p>Unser Mitgefühl gilt allen Betroffenen, ihren Angehörigen und den Zivilbevölkerungen in den jeweiligen Konfliktregionen. Gewalt gegen Zivilist:innen, die Missachtung von Menschenrechten sowie die Unterstützung oder Verharmlosung terroristischer Gewalt lehnen wir entschieden ab.</p>
+<p>Unsere Solidarität gilt allen Menschen, die von Gewalt, Unterdrückung, Verfolgung oder gesellschaftlicher Ausgrenzung betroffen sind, ebenso wie jenen, die sich unter großen persönlichen Risiken für Freiheit, Demokratie, Frieden und Menschenrechte einsetzen. </p>
+<p>Wir wünschen uns eine Welt, in der Menschen unabhängig von Herkunft, Religion und Identität friedlich und gleichberechtigt zusammenleben können. Kulturorte wie das TOLLHAUS verstehen wir nicht nur als Orte der Begegnung und des künstlerischen Ausdrucks, sondern auch als Raum für respektvollen gesellschaftlichen Dialog. Kunst und Kultur können Brücken bauen und Perspektiven erweitern. Wir sehen es als unsere gemeinsame Verantwortung an, durch Verständigung das friedliche Miteinander jetzt und für die Zukunft zu stärken.</p></div>                </div>
+    </div>
+</section>
+<section class="section-padding-bot slider-logos">
+    <div class="content-width top-container flex-wrap flex-y-center"><h3 class="no-margin">Das Kulturzentrum TOLLHAUS wird unterstützt von</h3></div>    
+    <div class="splide" role="group" aria-label="logo slider">
+      <div class="splide__track">
+            <ul class="splide__list">
+                <li class="splide__slide"><a href="https://mwk.baden-wuerttemberg.de/de/startseite" target="_blank" rel="noopener"><img class="full-space img-center img-contain" loading="lazy" src="/media/bw_wissenschaft_forschung_kultur.svg" decoding="async" alt="bw_wissenschaft_forschung_kultur.svg"></a></li><li class="splide__slide"><a href="https://www.initiative-musik.de/" target="_blank" rel="noopener"><img class="full-space img-center img-contain" loading="lazy" src="/media/imu.svg" decoding="async" alt="imu.svg"></a></li><li class="splide__slide"><a href="https://kulturstaatsminister.de/" target="_blank" rel="noopener"><img class="full-space img-center img-contain" loading="lazy" src="/media/bkm.svg" decoding="async" alt="bkm.svg"></a></li><li class="splide__slide"><a href="https://kulturbuero.karlsruhe.de/" target="_blank" rel="noopener"><img class="full-space img-center img-contain" loading="lazy" src="/media/logo_kulturbuero.svg" decoding="async" alt="logo_kulturbuero.svg"></a></li><li class="splide__slide"><a href="https://mwk.baden-wuerttemberg.de/de/kunst-kultur/kulturfoerderung/innovationsfonds-kunst" target="_blank" rel="noopener"><img class="full-space img-center img-contain" loading="lazy" src="/media/ifk_bw.png" decoding="async" alt="ifk_bw.png"></a></li>            </ul>
+      </div>
+    </div>
+    
+</section>
+</main>
+
+<!-- Footer -->
+
+<footer>
+    <div class="footer-top bg-dark">
+        <div class="content-width flex-space-between flex-wrap">
+            <div class="content-container">
+                <h4 class="footer-heading">Kulturzentrum TOLLHAUS Karlsruhe</h4><img class="footer-logo logo-tollhaus" src="/media/logo_tollhaus_festival.svg" alt="Logo"><img class="footer-logo logo-atoll" src="/media/logo_atoll.svg" alt="Logo"><img class="footer-logo logo-zeltival" src="/media/logo_zeltival_festival.svg" alt="Logo"><div class="txt-container"><p>Alter Schlachthof 35<br>76131 Karlsruhe</p>
+<p><script type="text/javascript">/* <![CDATA[ */document.write("<n uers=\"znvygb:vasb@gbyyunhf.qr\">vasb@gbyyunhf.qr</n>".replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));/* ]]> */</script><noscript><span style="display: none;">vasbg</span>info<span style="display: none;">gbsav</span>[at]<span style="display: none;">vasbg</span>tollhaus.de</noscript></p></div><div class="socials-container margin-gap"><a href="https://www.facebook.com/tollhauskarlsruhe" target="_blank" rel="noopener"><span class="icon icon-facebook full-space"></span></a><a href="https://www.instagram.com/tollhauskarlsruhe/?hl=de" target="_blank" rel="noopener"><span class="icon icon-instagram full-space"></span></a><a href="https://www.youtube.com/@tollhauskarlsruhe8104" target="_blank" rel="noopener"><span class="icon icon-youtube full-space"></span></a></div>            </div>
+            <div class="link-container flex-wrap">
+                <div class="link-block flex-col"><h3>Über uns</h3><a href="/ueber-uns/das-tollhaus/">Das TOLLHAUS</a><a href="/ueber-uns/nachhaltigkeit/">Nachhaltigkeit</a><a href="/ueber-uns/awareness/">Awareness</a><a href="/ueber-uns/team/">Team</a><a href="/ueber-uns/tollhaus-club/">TOLLHAUS-Club</a></div><div class="link-block flex-col"><h3>Service</h3><a href="/service/gastronomie/">Gastronomie</a><a href="/service/presse/">Presse</a><a href="/service/mediadaten/">Mediadaten</a><a href="/service/vermietung-firmen/">Vermietung/Firmen</a><a href="/service/lastenrad/">Lastenrad</a></div>            </div>
+        </div>
+    </div>
+    <div class="footer-bot">
+        <div class="content-width">
+            <div class="margin-gap flex-wrap flex-x-end">
+                <a href="/impressum/">Impressum</a><a href="/datenschutz/">Datenschutz</a><a href="/vereinssatzung/">Vereinssatzung</a><a href="/barrierefreiheit/">Barrierefreiheit</a>                <a href="#" data-cc="c-settings" aria-haspopup="dialog">Cookies</a>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!-- JS -->
+<script type="text/javascript" src="/resources/js/tollhaus-widget.js"></script>
+<script type="text/javascript" src="/resources/js/tollhaus-widget-tiles.js"></script>
+<script type="text/javascript" defer src="/resources/js/splide.min.js"></script>
+<script type="text/javascript" defer src="/resources/js/splide-extension-auto-scroll.min.js"></script>
+<script type="text/javascript" defer src="/resources/js/splide-extension-intersection.min.js"></script>
+<script type="text/javascript" defer src="/resources/js/datepicker.min.js"></script>
+<script type="text/javascript" defer src="/resources/js/datepicker_locales/de.js"></script>
+<script type="text/javascript" defer src="/resources/js/datepicker_locales/fr.js"></script>
+<script type="text/javascript" src="/resources/js/virtual-select.min.js"></script>
+<script type="text/javascript" src="/resources/js/program.js"></script>
+<script type="text/javascript" defer src="/resources/js/glightbox.min.js"></script>
+<script type="text/javascript" src="/resources/js/dynamicHeader.js"></script>
+<script type="text/javascript" defer src="/resources/js/gallery.js"></script>
+<script type="text/javascript" defer src="/resources/js/accordeon.js"></script>
+<script type="text/plain" data-category="spotify" defer src="/resources/js/spotify_embed.js"></script>
+<script type="module" src="/resources/js/main.js"></script>
+
+<link rel="stylesheet" href="/resources/css/cookieconsent.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/resources/css/cookieconsent_override.css" type="text/css" media="print" onload="this.media='all'" />
+<script type="text/javascript" async src="/resources/js/cookieconsent.js"></script>
+<script type="text/plain" data-cookiecategory="yt" defer src="/resources/js/yt-init.js"></script>
+<script type="text/plain" data-cookiecategory="vimeo" defer src="/resources/js/vimeo-init.js"></script>
+
+
+
+<script>
+    window.addEventListener('load', function () {
+        let cookieconsent = initCookieConsent();
+
+        // run plugin with config object
+        cookieconsent.run({
+            autorun: true,
+            current_lang: 'de',
+            autoclear_cookies: true,
+            page_scripts: true,
+
+            languages: {
+            en: {
+                consent_modal: {
+                    title: 'Cookies',
+                    description: 'Cookies are set to access the site and to ensure the best possible user experience.<br><br><a aria-label="Cookie policy" class="cc-link" href="/datenschutz/">Privacy Policy</a>',
+                    primary_btn: {
+                        text: 'Accept',
+                        role: 'accept_all'
+                    },
+                    secondary_btn: {
+                        text: 'Settings',
+                        role: 'settings'
+                    }
+                },
+                settings_modal: {
+                    title: 'Cookie Settings',
+                    save_settings_btn: 'Save Settings',
+                    accept_all_btn: 'Accept All',
+                    reject_all_btn: 'Reject All',
+                    cookie_table_headers: [
+                        {col1: 'Name'},
+                        {col2: 'Domain'},
+                        {col3: 'Expiration'},
+                        {col4: 'Description'}
+                    ],
+                    blocks: [
+                        {
+                            title: 'Necessary Cookies',
+                            description: 'These cookies are specified by the provider (Ionos) and are technically necessary. The page cannot be used without these.',
+                            toggle: {
+                                value: 'necessary',
+                                enabled: true,
+                                readonly: true
+                            }
+                        }, {
+                        title: 'Youtube Cookies',
+                        description: 'These cookies are set by the Youtube-Embeds, without these the embeds cannot be loaded. Youtube loads fonts from Google Fonts, additional cookies may be set.',
+                        toggle: {
+                            value: 'yt',
+                            enabled: false,
+                            readonly: false
+                        },
+                        cookie_table: [
+                            {
+                                col1: 'ACLK_DATA',
+                                col2: 'youtube.com',
+                                col3: '5 minutes',
+                                col4: 'Advertising'
+                            },
+                            {
+                                col1: 'YSC',
+                                col2: 'youtube.com',
+                                col3: 'Session',
+                                col4: 'Security'
+                            },
+                            {
+                                col1: 'VISITOR_INFO1_LIVE',
+                                col2: 'youtube.com',
+                                col3: '180 days',
+                                col4: 'Security, Advertising'
+                            },
+                            {
+                                col1: 'VISITOR_INFO1_LIVE__k',
+                                col2: 'youtube.com',
+                                col3: '180 days',
+                                col4: 'Security, Advertising'
+                            },
+                            {
+                                col1: 'VISITOR_INFO1_LIVE__default',
+                                col2: 'youtube.com',
+                                col3: '180 days',
+                                col4: 'Security, Advertising'
+                            }
+                        ]
+                        }, {
+                        title: 'Vimeo Cookies',
+                        description: 'These cookies are set by the Vimeo-Embeds, without these the embeds cannot be loaded.',
+                        toggle: {
+                            value: 'vimeo',
+                            enabled: false,
+                            readonly: false
+                        },
+                        cookie_table: [
+                            {
+                                col1: '__cf_bm',
+                                col2: 'Vimeo.com',
+                                col3: '30 Minuten',
+                                col4: 'Functional'
+                            },
+                            {
+                                col1: 'vuid',
+                                col2: 'Vimeo.com',
+                                col3: '1 Jahr',
+                                col4: 'Statistics'
+                            },
+                            {
+                                col1: 'player',
+                                col2: 'Vimeo.com',
+                                col3: '1 Jahr',
+                                col4: ''
+                            }                          
+                        ]
+                        }, {
+                        title: 'Spotify Cookies',
+                        description: 'These cookies are set by the Spotify embeds. Without these, the embeds cannot be loaded.',
+                        toggle: {
+                            value: 'spotify',
+                            enabled: false,
+                            readonly: false
+                        },
+                        cookie_table: [
+                            {
+                                col1: "sp_landing",
+                                col2: "spotify.com",
+                                col3: "1 Day",
+                                col4: "Marketing/Tracking"
+                            },
+                            {
+                                col1: "sp_t",
+                                col2: "spotify.com",
+                                col3: "1 Year",
+                                col4: "Marketing/Tracking"
+                            }
+                        ],
+                        }, {
+                            title: 'More Information',
+                            description: 'For more information see the <a class="cc-link" href="/datenschutz/">Privacy Policy</a>.',
+                        }
+                    ]
+                }
+            },
+            de: {
+                consent_modal: {
+                    title: 'Cookies',
+                    description: 'Zum Aufrufen der Seite und für ein bestmögliches Benutzererlebnis werden Cookies gesetzt.<br><br><a aria-label="Cookie policy" class="cc-link" href="/datenschutz/">Datenschutz</a>',
+                    primary_btn: {
+                        text: 'Akzeptieren',
+                        role: 'accept_all'
+                    },
+                    secondary_btn: {
+                        text: 'Einstellungen',
+                        role: 'settings'
+                    }
+                },
+                settings_modal: {
+                    title: 'Cookie Einstellungen',
+                    save_settings_btn: 'Einstellungen speichern',
+                    accept_all_btn: 'Alle akzeptieren',
+                    reject_all_btn: 'Alle ablehnen',
+                    cookie_table_headers: [
+                        {col1: 'Name'},
+                        {col2: 'Domain'},
+                        {col3: 'Speicherdauer'},
+                        {col4: 'Beschreibung'}
+                    ],
+                    blocks: [
+                        {
+                            title: 'Erforderliche Cookies',
+                            description: 'Diese Cookies sind vom Provider (Ionos) vorgegeben und technisch notwendig. Ohne diese kann die Seite nicht genutzt werden.',
+                            toggle: {
+                                value: 'necessary',
+                                enabled: true,
+                                readonly: true
+                            }
+                        }, {
+                        title: 'Youtube Cookies',
+                        description: 'Diese Cookies werden von den Youtube-Embeds gesetzt, ohne diese können die Embeds nicht geladen werden. Youtube lädt Fonts von Google Fonts, es können zusätzliche Cookies gesetzt werden.',
+                        toggle: {
+                            value: 'yt',
+                            enabled: false,
+                            readonly: false
+                        },
+                        cookie_table: [
+                            {
+                                col1: 'ACLK_DATA',
+                                col2: 'youtube.com',
+                                col3: '5 Minuten',
+                                col4: 'Werbung'
+                            },
+                            {
+                                col1: 'YSC',
+                                col2: 'youtube.com',
+                                col3: 'Session',
+                                col4: 'Sicherheit'
+                            },
+                            {
+                                col1: 'VISITOR_INFO1_LIVE',
+                                col2: 'youtube.com',
+                                col3: '180 Tage',
+                                col4: 'Sicherheit, Werbung'
+                            },
+                            {
+                                col1: 'VISITOR_INFO1_LIVE__k',
+                                col2: 'youtube.com',
+                                col3: '180 Tage',
+                                col4: 'Sicherheit, Werbung'
+                            },
+                            {
+                                col1: 'VISITOR_INFO1_LIVE__default',
+                                col2: 'youtube.com',
+                                col3: '180 Tage',
+                                col4: 'Sicherheit, Werbung'
+                            }
+                        ]
+                        }, {
+                        title: 'Vimeo Cookies',
+                        description: 'Diese Cookies werden von den Vimeo-Embeds gesetzt, ohne diese können die Embeds nicht geladen werden. Vimeo lädt Fonts von Google Fonts, es können zusätzliche Cookies gesetzt werden.',
+                        toggle: {
+                            value: 'vimeo',
+                            enabled: false,
+                            readonly: false
+                        },
+                        cookie_table: [
+                            {
+                                col1: '__cf_bm',
+                                col2: 'Vimeo.com',
+                                col3: '30 Minuten',
+                                col4: 'Funktional'
+                            },
+                            {
+                                col1: 'vuid',
+                                col2: 'Vimeo.com',
+                                col3: '1 Jahr',
+                                col4: 'Statistik'
+                            },
+                            {
+                                col1: 'player',
+                                col2: 'Vimeo.com',
+                                col3: '1 Jahr',
+                                col4: ''
+                            }                          
+                        ]
+                        }, {
+                        title: 'Spotify Cookies',
+                        description: 'Diese Cookies werden von den Spotify-Embeds gesetzt. Ohne diese können die Embeds nicht geladen werden.',
+                        toggle: {
+                            value: 'spotify',
+                            enabled: false,
+                            readonly: false
+                        },
+                        cookie_table: [
+                            {
+                                col1: "sp_landing",
+                                col2: "spotify.com",
+                                col3: "1 Tag",
+                                col4: "Marketing/Tracking"
+                            },
+                            {
+                                col1: "sp_t",
+                                col2: "spotify.com",
+                                col3: "1 Jahr",
+                                col4: "Marketing/Tracking"
+                            }
+                        ],
+                        }, {
+                            title: 'Mehr Informationen',
+                            description: 'Weitere Informationen finden sie in der <a class="cc-link" href="/datenschutz/">Datenschutzerklärung</a>.',
+                        }
+                    ]
+                }
+            }
+        }
+    });
+});
+</script>
+<script src="/assets/addons/emailobfuscator/emailobfuscator.js"></script>
+</body>
+</html>

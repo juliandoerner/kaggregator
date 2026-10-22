@@ -1,0 +1,98 @@
+[
+  {
+    "event_name": "KAmpusKApelle Jam-Session",
+    "event_date": "2026-04-23",
+    "event_time": "18:00",
+    "venue": "AKK - Altes Stadion",
+    "link": "https://www.akk.org/schlonze/schlonz.php?KAmpusKApelle%20Jam-Session",
+    "source_event_id": null,
+    "category": null,
+    "image_url": null,
+    "price": null,
+    "has_description": false
+  },
+  {
+    "event_name": "C-Pop Sunday",
+    "event_date": "2026-04-26",
+    "event_time": "14:00",
+    "venue": "AKK - Altes Stadion",
+    "link": "https://www.akk.org/schlonze/schlonz.php?C-Pop%20Sunday",
+    "source_event_id": null,
+    "category": null,
+    "image_url": null,
+    "price": null,
+    "has_description": false
+  },
+  {
+    "event_name": "Ancient Thunder und Poethum",
+    "event_date": "2026-06-23",
+    "event_time": "20:00",
+    "venue": "AKK - Altes Stadion",
+    "link": "https://www.akk.org/schlonze/schlonz.php?Ancient%20Thunder%20und%20Poethum",
+    "source_event_id": null,
+    "category": null,
+    "image_url": null,
+    "price": null,
+    "has_description": false
+  },
+  {
+    "event_name": "Orchester",
+    "event_date": "2026-06-25",
+    "event_time": "20:00",
+    "venue": "AKK - Altes Stadion",
+    "link": "https://www.akk.org/schlonze/schlonz.php?Orchester",
+    "source_event_id": null,
+    "category": null,
+    "image_url": null,
+    "price": null,
+    "has_description": false
+  },
+  {
+    "event_name": "Tanzmusik",
+    "event_date": "2026-06-30",
+    "event_time": "18:00",
+    "venue": "AKK - Altes Stadion",
+    "link": "https://www.akk.org/schlonze/schlonz.php?Tanzmusik",
+    "source_event_id": null,
+    "category": null,
+    "image_url": null,
+    "price": null,
+    "has_description": false
+  },
+  {
+    "event_name": "Sand im Kopf",
+    "event_date": "2026-07-23",
+    "event_time": "20:00",
+    "venue": "AKK - Altes Stadion",
+    "link": "https://www.akk.org/schlonze/schlonz.php?Sand%20im%20Kopf",
+    "source_event_id": null,
+    "category": null,
+    "image_url": null,
+    "price": null,
+    "has_description": false
+  },
+  {
+    "event_name": "Alicia and the Wonderband",
+    "event_date": "2026-07-24",
+    "event_time": "20:00",
+    "venue": "AKK - Altes Stadion",
+    "link": "https://www.akk.org/schlonze/schlonz.php?Alicia%20and%20the%20Wonderband",
+    "source_event_id": null,
+    "category": null,
+    "image_url": null,
+    "price": null,
+    "has_description": false
+  },
+  {
+    "event_name": "Immerhin live und schwer",
+    "event_date": "2026-07-28",
+    "event_time": "19:00",
+    "venue": "AKK - Altes Stadion",
+    "link": "https://www.akk.org/schlonze/schlonz.php?Immerhin%20live%20und%20schwer",
+    "source_event_id": null,
+    "category": null,
+    "image_url": null,
+    "price": null,
+    "has_description": false
+  }
+]

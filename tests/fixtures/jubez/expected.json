@@ -1,0 +1,122 @@
+[
+  {
+    "event_name": "Sommerpause",
+    "event_date": "2026-09-15",
+    "event_time": "14:00",
+    "venue": "jubez",
+    "link": "https://jubez.de/event/sommerpause-2026-09-15/",
+    "source_event_id": "cG9zdDoxODUzMA==",
+    "category": null,
+    "image_url": "https://headless.jubez.de/wp-content/uploads/2026/08/wir-machen-sommerpause.png",
+    "price": null,
+    "has_description": true
+  },
+  {
+    "event_name": "Planet F",
+    "event_date": "2026-10-14",
+    "event_time": "18:00",
+    "venue": "jubez",
+    "link": "https://jubez.de/event/planet-f-9/",
+    "source_event_id": "cG9zdDoxNTc1Nw==",
+    "category": null,
+    "image_url": "https://headless.jubez.de/wp-content/uploads/2021/06/jubez-jubez-se-planet-f-flyer.jpg",
+    "price": null,
+    "has_description": true
+  },
+  {
+    "event_name": "New Bands Semifinale 2026 im P8",
+    "event_date": "2026-10-17",
+    "event_time": "19:00",
+    "venue": "P8",
+    "link": "https://jubez.de/event/new-bands-semifinale-2026-im-p8-2026-10-17/",
+    "source_event_id": "cG9zdDoxODUzMg==",
+    "category": null,
+    "image_url": "https://headless.jubez.de/wp-content/uploads/2026/08/semifinale-instagram.jpg",
+    "price": null,
+    "has_description": true
+  },
+  {
+    "event_name": "Die Sterne",
+    "event_date": "2026-11-05",
+    "event_time": "20:30",
+    "venue": "jubez",
+    "link": "https://jubez.de/event/die-sterne-2026-11-05/",
+    "source_event_id": "cG9zdDoxODQ0OQ==",
+    "category": null,
+    "image_url": "https://headless.jubez.de/wp-content/uploads/2026/04/2026-11-05-die-sterne-1-by-stefan-braunbarth.jpg",
+    "price": null,
+    "has_description": true
+  },
+  {
+    "event_name": "Henrik Freischlader Band",
+    "event_date": "2026-11-06",
+    "event_time": "20:30",
+    "venue": "jubez Großer Saal",
+    "link": "https://jubez.de/event/henrik-freischlader-band-2026-11-06/",
+    "source_event_id": "cG9zdDoxODQ1MQ==",
+    "category": null,
+    "image_url": "https://headless.jubez.de/wp-content/uploads/2026/04/2026-11-06-henrik-freischlader-1-1303x868.jpg",
+    "price": null,
+    "has_description": true
+  },
+  {
+    "event_name": "Monolord",
+    "event_date": "2026-11-15",
+    "event_time": "20:00",
+    "venue": "P8",
+    "link": "https://jubez.de/event/monolord-2026-11-15/",
+    "source_event_id": "cG9zdDoxODUzNA==",
+    "category": null,
+    "image_url": "https://headless.jubez.de/wp-content/uploads/2026/08/2026-11-15-monolord-by-james-rexroad-1303x869.jpg",
+    "price": null,
+    "has_description": true
+  },
+  {
+    "event_name": "Inklusive Disco",
+    "event_date": "2026-11-27",
+    "event_time": "18:00",
+    "venue": "jubez Cafe und kleiner Saal",
+    "link": "https://jubez.de/event/inklusive-disco-2025-01-24/",
+    "source_event_id": "cG9zdDoxNzc0NQ==",
+    "category": null,
+    "image_url": "https://headless.jubez.de/wp-content/uploads/2021/11/jubez-2021-10-29-inklusive-disco-foto1.jpg",
+    "price": null,
+    "has_description": true
+  },
+  {
+    "event_name": "El Flecha Negra | Support: La Nefera",
+    "event_date": "2026-11-28",
+    "event_time": "20:00",
+    "venue": "jubez",
+    "link": "https://jubez.de/event/el-flecha-negra-support-la-nefera-2026-11-28/",
+    "source_event_id": "cG9zdDoxODQxNw==",
+    "category": null,
+    "image_url": "https://headless.jubez.de/wp-content/uploads/2026/02/cover-500x500px-mucho-picante-caliente.jpg",
+    "price": null,
+    "has_description": true
+  },
+  {
+    "event_name": "Etceteral",
+    "event_date": "2026-12-03",
+    "event_time": "20:00",
+    "venue": "jubez",
+    "link": "https://jubez.de/event/etceteral-2026-12-03/",
+    "source_event_id": "cG9zdDoxODUzOA==",
+    "category": null,
+    "image_url": "https://headless.jubez.de/wp-content/uploads/2026/08/2026-12-03-etceteral-2-jazzclub-1303x869.jpg",
+    "price": null,
+    "has_description": true
+  },
+  {
+    "event_name": "FATCAT",
+    "event_date": "2026-12-05",
+    "event_time": "20:00",
+    "venue": "jubez",
+    "link": "https://jubez.de/event/fatcat-2026-12-05/",
+    "source_event_id": "cG9zdDoxODQxMw==",
+    "category": null,
+    "image_url": "https://headless.jubez.de/wp-content/uploads/2026/02/fatcat-2025-080-by-felix-groteloh-1303x1303.jpg",
+    "price": null,
+    "has_description": true
+  }
+]

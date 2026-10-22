@@ -1,0 +1,77 @@
+# KA Events configuration
+#
+# This file is authoritative. `scrapers.enabled` decides which scrapers run,
+# and each venue's `name` is the label shown in the site's location filter.
+# Deployment values (DATABASE_PATH, SCRAPE_INTERVAL, SMTP_*) come from the
+# environment - see .env.example.
+
+scrapers:
+  enabled:
+    - akk_liveschlonz
+    - z10
+    - substage
+    - kohi
+    - tollhaus
+    - pacht
+    - jubez
+    - stadtmitte
+
+  # Not enabled:
+  #   staatstheater - very high volume, not music-focused
+  #   dummy         - test scraper, would pollute the database
+
+venues:
+  akk_liveschlonz:
+    name: "AKK"
+    full_name: "AKK - Altes Stadion"
+    url: "https://www.akk.org"
+    address: "Adenauerring 10, 76131 Karlsruhe"
+
+  z10:
+    name: "Z10"
+    full_name: "Studentenzentrum Z10"
+    url: "https://z10.info"
+    address: "Zähringerstraße 10, 76149 Karlsruhe"
+
+  substage:
+    name: "Substage"
+    full_name: "Substage Karlsruhe e.V."
+    url: "https://substage.de"
+    address: "Karlstraße 28, 76137 Karlsruhe"
+
+  kohi:
+    name: "KOHI"
+    full_name: "KOHI Kulturraum Karlsruhe e.V."
+    url: "https://kohi.de"
+    address: "Werderstraße 47, 76137 Karlsruhe"
+
+  tollhaus:
+    name: "Tollhaus"
+    full_name: "Kulturzentrum Tollhaus Karlsruhe"
+    url: "https://www.tollhaus.de"
+    address: "Rintheimer Straße 22b, 76131 Karlsruhe"
+
+  pacht:
+    name: "P8"
+    full_name: "P8 - selbstverwalteter Kulturraum"
+    url: "https://p-acht.org"
+    # No street address published on the site.
+
+  jubez:
+    name: "jubez"
+    full_name: "jubez - Kunst- und Kulturzentrum am Kronenplatz"
+    url: "https://jubez.de"
+    address: "Kronenplatz 1, 76133 Karlsruhe"
+
+  stadtmitte:
+    name: "Die Stadtmitte"
+    full_name: "Die Stadtmitte"
+    url: "https://die-stadtmitte.de"
+    address: "Baumeisterstraße 3, 76137 Karlsruhe"
+
+  # Metadata kept for the disabled scraper so re-enabling it needs no edits here
+  staatstheater:
+    name: "Staatstheater"
+    full_name: "Badisches Staatstheater Karlsruhe"
+    url: "https://www.staatstheater-karlsruhe.de"
+    address: "Hermann-Levi-Platz 1, 76137 Karlsruhe"

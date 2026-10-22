@@ -1,0 +1,38 @@
+# Secrets - .env holds SMTP credentials
+.env
+.env.*
+!.env.example
+/.aws/
+
+# Virtual environment
+.venv/
+.venv.*/
+venv/
+
+# Local coding-agent settings and instructions
+/.agents/
+/.codex/
+/.claude/
+/CLAUDE.md
+
+# Database (fully derived from scrapers, regenerated on every run)
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Tooling
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store

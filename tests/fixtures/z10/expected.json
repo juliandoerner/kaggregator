@@ -1,0 +1,38 @@
+[
+  {
+    "event_name": "The Jericho Racks (UK) + Haloquadratum Wasabi (KA)",
+    "event_date": "2026-09-12",
+    "event_time": "22:00",
+    "venue": "Studentenzentrum Z10",
+    "link": "https://z10.info/#z10_the-jericho-racks-uk-haloquadratum-wasabi-ka_20260912",
+    "source_event_id": null,
+    "category": "Konzert",
+    "image_url": null,
+    "price": null,
+    "has_description": true
+  },
+  {
+    "event_name": "Okkulte fekkal kryypta I",
+    "event_date": "2026-09-25",
+    "event_time": "20:00",
+    "venue": "Studentenzentrum Z10",
+    "link": "https://z10.info/#z10_okkulte-fekkal-kryypta-i_20260925",
+    "source_event_id": null,
+    "category": "Konzert",
+    "image_url": null,
+    "price": null,
+    "has_description": true
+  },
+  {
+    "event_name": "Düsterkvlt",
+    "event_date": "2026-11-21",
+    "event_time": "19:00",
+    "venue": "Studentenzentrum Z10",
+    "link": "https://z10.info/#z10_d-sterkvlt_20261121",
+    "source_event_id": null,
+    "category": "Konzert",
+    "image_url": null,
+    "price": null,
+    "has_description": true
+  }
+]
